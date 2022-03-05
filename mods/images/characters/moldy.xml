@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="moldy.png"><SubTexture name="moldy singDOWN-loop0000" x="540" y="0" width="250" height="270" frameX="-30" frameY="-50" frameWidth="320" frameHeight="320" />
+<SubTexture name="moldy singLEFT-loop0000" x="0" y="0" width="280" height="280" frameX="-10" frameY="-20" frameWidth="320" frameHeight="320" />
+<SubTexture name="moldy singRIGHT-loop0000" x="280" y="0" width="260" height="280" frameX="-40" frameY="-20" frameWidth="320" frameHeight="320" />
+<SubTexture name="moldy singUP-loop0000" x="250" y="280" width="260" height="250" frameX="-20" frameY="0" frameWidth="320" frameHeight="320" />
+<SubTexture name="moldy idle-loop0000" x="0" y="280" width="250" height="260" frameX="-30" frameY="-40" frameWidth="320" frameHeight="320" />
+<SubTexture name="moldy singDOWN0000" x="540" y="0" width="250" height="270" frameX="-30" frameY="-50" frameWidth="320" frameHeight="320" />
+<SubTexture name="moldy idle0000" x="0" y="280" width="250" height="260" frameX="-30" frameY="-40" frameWidth="320" frameHeight="320" />
+<SubTexture name="moldy singLEFT0000" x="0" y="0" width="280" height="280" frameX="-10" frameY="-20" frameWidth="320" frameHeight="320" />
+<SubTexture name="moldy singRIGHT0000" x="280" y="0" width="260" height="280" frameX="-40" frameY="-20" frameWidth="320" frameHeight="320" />
+<SubTexture name="moldy singUP0000" x="250" y="280" width="260" height="250" frameX="-20" frameY="0" frameWidth="320" frameHeight="320" />
+</TextureAtlas>

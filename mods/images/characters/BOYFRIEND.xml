@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BOYFRIEND.png"><SubTexture name="BOYFRIEND singDOWN0000" x="0" y="860" width="300" height="410" frameX="-10" frameY="-70" frameWidth="320" frameHeight="480" />
+<SubTexture name="BOYFRIEND singDOWN0001" x="300" y="860" width="290" height="390" frameX="-20" frameY="-90" frameWidth="320" frameHeight="480" />
+<SubTexture name="BOYFRIEND idle0000" x="0" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="BOYFRIEND idle0001" x="280" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="BOYFRIEND idle0002" x="1140" y="430" width="280" height="420" frameX="-20" frameY="-60" frameWidth="320" frameHeight="480" />
+<SubTexture name="BOYFRIEND idle0003" x="0" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="BOYFRIEND singLEFT0000" x="560" y="0" width="300" height="430" frameX="-10" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="BOYFRIEND singLEFT0001" x="0" y="430" width="310" height="430" frameX="0" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="BOYFRIEND singRIGHT0000" x="310" y="430" width="290" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="BOYFRIEND singRIGHT0001" x="860" y="0" width="280" height="430" frameX="-30" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="BOYFRIEND singUP0000" x="860" y="430" width="280" height="430" frameX="-20" frameY="-40" frameWidth="320" frameHeight="480" />
+<SubTexture name="BOYFRIEND singUP0001" x="1140" y="0" width="300" height="430" frameX="-10" frameY="-20" frameWidth="320" frameHeight="480" />
+</TextureAtlas>
