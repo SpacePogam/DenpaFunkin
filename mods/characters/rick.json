@@ -60,7 +60,7 @@
 	"image": "characters/rick",
 	"position": [
 		10,
-		0
+		50
 	],
 	"healthicon": "rick",
 	"flip_x": false,
