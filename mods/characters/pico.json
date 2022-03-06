@@ -6,18 +6,7 @@
 				-200
 			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "moldy singRIGHT"
-		},
-		{
-			"offsets": [
-				-180,
-				-200
-			],
-			"loop": true,
-			"fps": 24,
+			"fps": 12,
 			"anim": "idle",
 			"indices": [],
 			"name": "moldy idle"
@@ -27,11 +16,22 @@
 				-180,
 				-200
 			],
-			"loop": true,
-			"fps": 24,
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "moldy right"
+		},
+		{
+			"offsets": [
+				-180,
+				-200
+			],
+			"loop": false,
+			"fps": 12,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "moldy singDOWN"
+			"name": "moldy down"
 		},
 		{
 			"offsets": [
@@ -39,10 +39,10 @@
 				-200
 			],
 			"loop": false,
-			"fps": 24,
+			"fps": 12,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "moldy singLEFT"
+			"name": "moldy left"
 		},
 		{
 			"offsets": [
@@ -50,29 +50,29 @@
 				-200
 			],
 			"loop": false,
-			"fps": 24,
+			"fps": 12,
 			"anim": "singUP",
 			"indices": [],
-			"name": "moldy singUP"
+			"name": "moldy up"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/moldy",
 	"position": [
-		0,
-		0
+		100,
+		100
 	],
 	"healthicon": "face",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		221,
+		221,
+		221
 	],
 	"camera_position": [
 		30,
 		230
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 9.99999999999998
 }

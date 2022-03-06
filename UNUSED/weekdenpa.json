@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"Dad Battle",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Blammed",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Digitoll",
+	"weekName": "Denpa Funkin'",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

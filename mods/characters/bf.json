@@ -5,55 +5,55 @@
 				-150,
 				-250
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
 			"indices": [],
-			"name": "BOYFRIEND idle"
-		},
-		{
-			"offsets": [
-				-150,
-				-250
-			],
-			"loop": false,
-			"fps": 24,
+			"fps": 20,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "BOYFRIEND singLEFT"
+			"loop": false,
+			"name": "BOYFRIEND left"
 		},
 		{
 			"offsets": [
 				-150,
 				-250
 			],
-			"loop": false,
-			"fps": 24,
+			"indices": [],
+			"fps": 20,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "BOYFRIEND singDOWN"
+			"loop": false,
+			"name": "BOYFRIEND down"
 		},
 		{
 			"offsets": [
 				-150,
-				-230
+				-200
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
 			"indices": [],
-			"name": "BOYFRIEND singUP"
+			"fps": 20,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BOYFRIEND up"
 		},
 		{
 			"offsets": [
 				-150,
 				-250
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
 			"indices": [],
-			"name": "BOYFRIEND singRIGHT"
+			"fps": 20,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BOYFRIEND right"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "idle",
+			"loop": false,
+			"name": "BOYFRIEND idle"
 		}
 	],
 	"no_antialiasing": true,

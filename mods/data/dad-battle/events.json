@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "digitoll",
+		"player1": "bf-pixel",
+		"player2": "dad",
+		"player3": null,
+		"events": [
+			[
+				21333.3333333333,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				26666.6666666667,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Dad Battle"
+	}
+}

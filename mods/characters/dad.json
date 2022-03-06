@@ -49,30 +49,30 @@
 				-150,
 				-180
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 18,
 			"anim": "singUP",
-			"loop": false,
+			"indices": [],
 			"name": "ricky up"
 		}
 	],
 	"no_antialiasing": true,
 	"image": "characters/ricky",
 	"position": [
-		0,
+		10,
 		0
 	],
 	"healthicon": "face",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		255,
+		41,
+		35
 	],
 	"camera_position": [
-		0,
+		100,
 		270
 	],
 	"sing_duration": 6.1,
-	"scale": 1.3
+	"scale": 0.9
 }
