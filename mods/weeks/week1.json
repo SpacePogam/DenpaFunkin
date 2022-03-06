@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Digging", "rick", [255, 41, 35]],
+		["Waves", "rick", [255, 41, 35]],
+		["Rick Battle", "rick", [255, 41, 35]]
+	],
+
+	"weekCharacters": [
+		"rick",
+		"norman",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
