@@ -3,7 +3,7 @@
 		{
 			"offsets": [
 				-150,
-				-330
+				-380
 			],
 			"loop": false,
 			"fps": 24,
@@ -14,7 +14,7 @@
 		{
 			"offsets": [
 				-150,
-				-335
+				-385
 			],
 			"loop": false,
 			"fps": 24,
@@ -25,7 +25,7 @@
 		{
 			"offsets": [
 				-150,
-				-330
+				-380
 			],
 			"loop": false,
 			"fps": 24,
@@ -37,7 +37,7 @@
 			"loop": false,
 			"offsets": [
 				-150,
-				-330
+				-380
 			],
 			"anim": "idle",
 			"fps": 8,
@@ -47,7 +47,7 @@
 		{
 			"offsets": [
 				-150,
-				-280
+				-320
 			],
 			"loop": false,
 			"fps": 18,

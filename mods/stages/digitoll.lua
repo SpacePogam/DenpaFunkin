@@ -1,0 +1,20 @@
+function onCreate()
+	-- background shit
+	makeLuaSprite('bgdigitoll', 'bgdigitoll', 0, 0);
+	setScrollFactor('bgdigitoll', 0.9, 0.9);
+	
+		makeLuaSprite('frdigitoll', 'frdigitoll', 100, 105);
+	setScrollFactor('frdigitoll', 0.9, 0.9);
+	scaleObject('frdigitoll', 0.8, 0.8);
+	
+	makeLuaSprite('win1', 'win1', 0, 0);
+	setScrollFactor('win1', 0.9, 0.9);
+	
+		makeLuaSprite('win0', 'win0', 0, 0);
+	setScrollFactor('win0', 0.9, 0.9);
+
+	addLuaSprite('bgdigitoll', false);
+	addLuaSprite('frdigitoll', false);
+	
+	close(true); --For performance reasons, close this script once the stage is fully loaded, as this script won't be used anymore after loading the stage
+end
