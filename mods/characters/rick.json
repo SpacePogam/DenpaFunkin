@@ -1,39 +1,6 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-150,
-				-380
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "rickleft"
-		},
-		{
-			"offsets": [
-				-150,
-				-385
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "rickdown"
-		},
-		{
-			"offsets": [
-				-150,
-				-380
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "rickright"
-		},
-		{
 			"loop": false,
 			"offsets": [
 				-150,
@@ -47,12 +14,45 @@
 		{
 			"offsets": [
 				-150,
+				-380
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "rickleft"
+		},
+		{
+			"offsets": [
+				-150,
+				-385
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "rickdown"
+		},
+		{
+			"offsets": [
+				-150,
+				-380
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "rickright"
+		},
+		{
+			"offsets": [
+				-150,
 				-320
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 18,
 			"anim": "singUP",
-			"indices": [],
+			"loop": false,
 			"name": "rickup"
 		}
 	],
