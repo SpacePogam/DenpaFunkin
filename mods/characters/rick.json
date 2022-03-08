@@ -8,7 +8,51 @@
 			],
 			"anim": "idle",
 			"fps": 8,
-			"name": "rickidle",
+			"name": "rick idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-380
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rick left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-385
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rick down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-380
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rick right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-320
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "rick up",
 			"indices": []
 		},
 		{
@@ -18,20 +62,9 @@
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "singLEFT",
+			"anim": "singLEFT-loop",
 			"loop": false,
-			"name": "rickleft"
-		},
-		{
-			"offsets": [
-				-150,
-				-385
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singDOWN",
-			"loop": false,
-			"name": "rickdown"
+			"name": "rick leftl"
 		},
 		{
 			"offsets": [
@@ -40,9 +73,9 @@
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "singRIGHT",
+			"anim": "singRIGHT-loop",
 			"loop": false,
-			"name": "rickright"
+			"name": "rick rightl"
 		},
 		{
 			"offsets": [
@@ -50,10 +83,21 @@
 				-320
 			],
 			"indices": [],
-			"fps": 18,
-			"anim": "singUP",
+			"fps": 24,
+			"anim": "singUP-loop",
 			"loop": false,
-			"name": "rickup"
+			"name": "rick upl"
+		},
+		{
+			"offsets": [
+				-150,
+				-385
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": false,
+			"name": "rick downl"
 		}
 	],
 	"no_antialiasing": true,
@@ -74,5 +118,5 @@
 		200
 	],
 	"sing_duration": 6.1,
-	"scale": 6.99999999999999
+	"scale": 7
 }
