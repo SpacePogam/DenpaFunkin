@@ -10,9 +10,9 @@
 		"norman",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "",
+	"weekBackground": "digitoll",
+	
+	"storyName": "RICKY REAREST",
 	"weekBefore": "tutorial",
 	"weekName": "Week 1",
 	"startUnlocked": true,
