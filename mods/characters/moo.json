@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "idle",
-			"indices": [],
-			"name": "moo idle"
+			"fps": 12,
+			"name": "moo idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "moo left"
+			"fps": 24,
+			"name": "moo left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "moo down"
+			"fps": 24,
+			"name": "moo down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				50
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "moo up"
+			"fps": 24,
+			"name": "moo up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "moo right"
+			"fps": 24,
+			"name": "moo right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": true,
@@ -65,9 +65,9 @@
 	"healthicon": "face",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		141,
+		181,
+		255
 	],
 	"camera_position": [
 		0,

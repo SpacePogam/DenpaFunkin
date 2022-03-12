@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "adrian down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "adrian down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				25
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "adrian up",
-			"indices": []
+			"indices": [],
+			"name": "adrian up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 12,
-			"name": "adrian idle",
+			"anim": "idle",
+			"indices": [],
+			"name": "adrian idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "adrian right",
 			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "adrian right"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "adrian left"
+			"fps": 24,
+			"name": "adrian left",
+			"indices": []
 		}
 	],
 	"no_antialiasing": true,
@@ -65,9 +65,9 @@
 	"healthicon": "face",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		141,
+		255,
+		61
 	],
 	"camera_position": [
 		650,

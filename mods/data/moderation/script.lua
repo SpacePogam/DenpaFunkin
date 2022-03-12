@@ -4,6 +4,7 @@ local gf = false
 
 function onStartCountdown()
     setProperty('dad.alpha', 1)
+	setProperty('bf.alpha', 1)
     return Function_Continue;
 end
 

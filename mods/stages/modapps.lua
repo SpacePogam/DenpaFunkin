@@ -1,7 +1,7 @@
 function onCreate()
 	-- background shit
 	makeLuaSprite('modapps', 'modapps', 0, 0);
-	setScrollFactor('modapps', 0.9, 0.9);
+	setScrollFactor('modapps', 0.9, 0.9)
 
 	addLuaSprite('modapps', false);
 	
