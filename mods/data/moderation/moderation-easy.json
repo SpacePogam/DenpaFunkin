@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "monisen",
+		"player1": "adrian",
 		"gfVersion": "gf",
 		"notes": [
 			{
@@ -5756,6 +5756,36 @@
 				"bpm": 162
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 162,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 162,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
 				"gfSection": false,
 				"lengthInSteps": 16,
 				"altAnim": false,
@@ -5776,6 +5806,6 @@
 		"validScore": true,
 		"stage": "stage",
 		"bpm": 162,
-		"speed": 2.6
+		"speed": 2.3
 	}
 }
