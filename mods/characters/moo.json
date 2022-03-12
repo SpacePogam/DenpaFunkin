@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 12,
-			"name": "moo idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "moo idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "moo left",
-			"indices": []
+			"indices": [],
+			"name": "moo left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "moo down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "moo down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				50
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "moo up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "moo up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "moo right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "moo right"
 		}
 	],
 	"no_antialiasing": true,
@@ -62,7 +62,7 @@
 		150,
 		350
 	],
-	"healthicon": "face",
+	"healthicon": "moo",
 	"flip_x": false,
 	"healthbar_colors": [
 		141,
