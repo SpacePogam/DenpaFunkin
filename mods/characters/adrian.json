@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "adrian down"
+			"fps": 24,
+			"name": "adrian down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				0
+				25
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "adrian up"
+			"fps": 24,
+			"name": "adrian up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "idle",
-			"indices": [],
-			"name": "adrian idle"
+			"fps": 12,
+			"name": "adrian idle",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "adrian right",
-			"indices": []
+			"indices": [],
+			"name": "adrian right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "adrian left",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "adrian left"
 		}
 	],
 	"no_antialiasing": true,
@@ -71,7 +71,7 @@
 	],
 	"camera_position": [
 		650,
-		-250
+		-200
 	],
 	"sing_duration": 6.1,
 	"scale": 8
