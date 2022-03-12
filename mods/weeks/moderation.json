@@ -1,4 +1,16 @@
 {
+	"storyName": "WAKE UP DJ",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Moderation",
@@ -10,22 +22,10 @@
 			]
 		]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"difficulties": "",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "WAKE UP DJ",
-	"weekName": "moderation",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "",
-	"startUnlocked": true
+	"weekName": "Moderation"
 }

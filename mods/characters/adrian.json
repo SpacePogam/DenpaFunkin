@@ -1,37 +1,37 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"offsets": [
-				-2,
-				0
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "moldy right",
-			"indices": []
-		},
-		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "moldy down",
-			"indices": []
+			"indices": [],
+			"name": "adrian down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "moldy idle",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "adrian up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "adrian idle"
 		},
 		{
 			"loop": false,
@@ -41,7 +41,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "moldy left",
+			"name": "adrian right",
 			"indices": []
 		},
 		{
@@ -50,16 +50,16 @@
 				0,
 				0
 			],
-			"anim": "singUP",
+			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "moldy up",
+			"name": "adrian left",
 			"indices": []
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/moldy",
+	"image": "characters/adrian",
 	"position": [
-		200,
+		300,
 		300
 	],
 	"healthicon": "face",
@@ -70,9 +70,9 @@
 		161
 	],
 	"camera_position": [
-		0,
-		0
+		650,
+		-250
 	],
 	"sing_duration": 6.1,
-	"scale": 10
+	"scale": 8
 }
