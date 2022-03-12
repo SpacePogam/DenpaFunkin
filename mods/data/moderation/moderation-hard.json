@@ -270,6 +270,18 @@
 						11666.6666666667,
 						4,
 						92.5925925925926
+					],
+					[
+						11111.1111111111,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						11481.4814814815,
+						2,
+						0,
+						"Hurt Note"
 					]
 				],
 				"altAnim": false,
@@ -351,6 +363,30 @@
 						13240.7407407407,
 						2,
 						0
+					],
+					[
+						11851.8518518519,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						12222.2222222222,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						12592.5925925926,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						12962.962962963,
+						3,
+						0,
+						"Hurt Note"
 					]
 				],
 				"altAnim": false,
@@ -422,6 +458,30 @@
 						14722.2222222222,
 						2,
 						0
+					],
+					[
+						13333.3333333333,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						13703.7037037037,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						14074.0740740741,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						14444.4444444444,
+						3,
+						0,
+						"Hurt Note"
 					]
 				],
 				"altAnim": false,
@@ -503,6 +563,30 @@
 						16203.7037037037,
 						2,
 						0
+					],
+					[
+						14814.8148148148,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						15185.1851851852,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						15555.5555555556,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						15925.9259259259,
+						1,
+						0,
+						"Hurt Note"
 					]
 				],
 				"altAnim": false,
@@ -574,6 +658,30 @@
 						17685.1851851852,
 						3,
 						0
+					],
+					[
+						16296.2962962963,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						16666.6666666667,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						17037.037037037,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						17407.4074074074,
+						3,
+						0,
+						"Hurt Note"
 					]
 				],
 				"altAnim": false,
@@ -5755,6 +5863,26 @@
 				"mustHitSection": true,
 				"changeBPM": false,
 				"bpm": 162
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 162,
+				"changeBPM": false,
+				"mustHitSection": true
 			},
 			{
 				"sectionNotes": [],
