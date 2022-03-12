@@ -1,16 +1,20 @@
 {
-	"storyName": "WAKE UP DJ",
+	"storyName": "DEBATE TIME",
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "philly",
-	"weekBefore": "",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
 			"Moderation",
@@ -22,10 +26,6 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"hideStoryMode": false,
 	"weekName": "Moderation"
 }
