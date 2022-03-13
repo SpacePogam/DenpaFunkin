@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dwof.png"><SubTexture name="dwof down0000" x="0" y="385" width="385" height="304" frameX="-48" frameY="-113" frameWidth="512" frameHeight="512" />
+<SubTexture name="dwof down0001" x="0" y="385" width="385" height="304" frameX="-48" frameY="-191" frameWidth="512" frameHeight="512" />
+<SubTexture name="dwof idle0000" x="0" y="0" width="271" height="385" frameX="-112" frameY="-82" frameWidth="512" frameHeight="512" />
+<SubTexture name="dwof idle0001" x="0" y="0" width="271" height="385" frameX="-112" frameY="-82" frameWidth="512" frameHeight="512" />
+<SubTexture name="dwof idle0002" x="0" y="0" width="271" height="385" frameX="-112" frameY="-82" frameWidth="512" frameHeight="512" />
+<SubTexture name="dwof idle0003" x="0" y="0" width="271" height="385" frameX="-112" frameY="-82" frameWidth="512" frameHeight="512" />
+<SubTexture name="dwof left0000" x="271" y="0" width="304" height="385" frameX="-149" frameY="-82" frameWidth="512" frameHeight="512" />
+<SubTexture name="dwof left0001" x="271" y="0" width="304" height="385" frameX="-73" frameY="-89" frameWidth="512" frameHeight="512" />
+<SubTexture name="dwof right0000" x="575" y="0" width="304" height="385" frameX="-59" frameY="-82" frameWidth="512" frameHeight="512" />
+<SubTexture name="dwof right0001" x="575" y="0" width="304" height="385" frameX="-135" frameY="-89" frameWidth="512" frameHeight="512" />
+<SubTexture name="dwof up0000" x="385" y="385" width="385" height="304" frameX="-48" frameY="-95" frameWidth="512" frameHeight="512" />
+<SubTexture name="dwof up0001" x="385" y="385" width="385" height="304" frameX="-48" frameY="-17" frameWidth="512" frameHeight="512" />
+</TextureAtlas>
