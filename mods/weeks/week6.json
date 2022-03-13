@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Moldy", "rotten puff", [255, 41, 35]],
+		["Rich", "paladin", [255, 41, 35]],
+		["Downburst", "tempester", [255, 41, 35]]
+	],
+
+	"weekCharacters": [
+		"tempester",
+		"norman",
+		"gf"
+	],
+	"weekBackground": "digitoll",
+	
+	"storyName": "THE WIND TOWER",
+	"weekBefore": "week 5",
+	"weekName": "Week 6",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
