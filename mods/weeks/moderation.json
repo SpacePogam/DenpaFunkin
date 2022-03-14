@@ -4,9 +4,9 @@
 	"hideFreeplay": false,
 	"weekBackground": "philly",
 	"freeplayColor": [
-		146,
-		113,
-		253
+		99,
+		155,
+		255
 	],
 	"weekBefore": "",
 	"startUnlocked": true,
@@ -18,11 +18,11 @@
 	"songs": [
 		[
 			"Moderation",
-			"dad",
+			"Moo",
 			[
-				146,
-				113,
-				253
+				99,
+				155,
+				255
 			]
 		]
 	],

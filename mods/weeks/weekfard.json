@@ -2,11 +2,11 @@
 	"songs": [
 		[
 			"Funny Fard",
-			"dad",
+			"dwof",
 			[
-				146,
-				113,
-				253
+				255,
+				195,
+				0
 			]
 		]
 	],
@@ -22,9 +22,9 @@
 	"storyName": "HAHA FUNNY FARD",
 	"weekName": "Funny Fard",
 	"freeplayColor": [
-		146,
-		113,
-		253
+		255,
+		195,
+		0
 	],
 	"hideStoryMode": false,
 	"weekBefore": "tutorial",

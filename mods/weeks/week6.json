@@ -1,9 +1,9 @@
 {
 	"songs": [
-		["Moldy", "rotten", [255, 41, 35]],
-		["Rich", "paladin", [255, 41, 35]],
-		["Downburst", "tempester", [255, 41, 35]],
-		["Hot", "tempester", [255, 41, 35]]
+		["Moldy", "rotten", [23, 145, 38]],
+		["Rich", "paladin", [177, 2, 16]],
+		["Downburst", "tempester", [200, 207, 126]],
+		["Hot", "tempester", [200, 207, 126]]
 	],
 
 	"weekCharacters": [
