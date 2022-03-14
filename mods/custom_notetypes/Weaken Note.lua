@@ -4,7 +4,7 @@ function onCreate()
 		--Check if the note is an Instakill Note
 		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Weaken Note' then
 			setPropertyFromGroup('unspawnNotes', i, 'texture', 'weaken_note_assets'); --Change texture
-			setPropertyFromGroup('unspawnNotes', i, 'hitHealth', '-500'); --Default value is: 0.023, health gained on hit
+			setPropertyFromGroup('unspawnNotes', i, 'hitHealth', '-0.15'); --Default value is: 0.023, health gained on hit
 			setPropertyFromGroup('unspawnNotes', i, 'missHealth', '500'); --Default value is: 0.0475, health lost on miss
 			setPropertyFromGroup('unspawnNotes', i, 'hitCausesMiss', true);
 
