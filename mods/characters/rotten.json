@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				-150,
-				-250
-			],
-			"anim": "singLEFT",
-			"fps": 20,
-			"name": "Rotten left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-150,
-				-250
-			],
-			"anim": "singDOWN",
-			"fps": 20,
-			"name": "Rotten down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-150,
-				-200
-			],
-			"anim": "singUP",
-			"fps": 20,
-			"name": "Rotten up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-150,
-				-250
+				-2,
+				0
 			],
 			"anim": "singRIGHT",
-			"fps": 20,
-			"name": "Rotten right",
+			"fps": 24,
+			"name": "rotten right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-150,
-				-250
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rotten down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
 			],
 			"anim": "idle",
-			"fps": 8,
-			"name": "Rotten idle",
+			"fps": 24,
+			"name": "rotten idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rotten left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rotten up",
 			"indices": []
 		}
 	],
 	"no_antialiasing": true,
 	"image": "characters/rotten",
 	"position": [
-		0,
-		0
+		200,
+		300
 	],
-	"healthicon": "rotten",
-	"flip_x": true,
+	"healthicon": "face",
+	"flip_x": false,
 	"healthbar_colors": [
-		23,
-		145,
-		38
+		161,
+		161,
+		161
 	],
 	"camera_position": [
 		0,
-		230
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 1.2
+	"scale": 10
 }
