@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-250
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "Paladin left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-250
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "Paladin down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-200
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "Paladin up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-250
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "Paladin right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-250
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "Paladin idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/paladin",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "paladin",
+	"flip_x": true,
+	"healthbar_colors": [
+		177,
+		2,
+		16
+	],
+	"camera_position": [
+		0,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

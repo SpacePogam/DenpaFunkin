@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-250
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "Tempester left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-250
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "Tempester down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-200
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "Tempester up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-250
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "Tempester right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-250
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "Tempester idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/tempester",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tempester",
+	"flip_x": true,
+	"healthbar_colors": [
+		200,
+		207,
+		126
+	],
+	"camera_position": [
+		0,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

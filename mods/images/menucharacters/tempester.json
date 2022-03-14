@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Tempester",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"idle_anim": "M Step Idle",
+	"confirm_anim": "M Step Idle"
+}
