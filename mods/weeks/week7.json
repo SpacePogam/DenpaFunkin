@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Placeholder", "face", [255, 255, 255]],
+		["Curse", "avid", [24, 24, 24]],
+		["Automation", "thunder", [233, 226, 44]]
+	],
+
+	"weekCharacters": [
+		"thunder",
+		"norman",
+		"gf"
+	],
+	"weekBackground": "digitoll",
+	
+	"storyName": "THE SHOCK TEMPLE",
+	"weekBefore": "week 6",
+	"weekName": "Week 7",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

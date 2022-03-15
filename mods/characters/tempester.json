@@ -50,6 +50,17 @@
 				-150,
 				-250
 			],
+			"anim": "shootRIGHT",
+			"fps": 20,
+			"name": "Tempester sright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-250
+			],
 			"anim": "idle",
 			"fps": 8,
 			"name": "Tempester idle",
