@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Brothers", "snakebros", [31, 8, 227]],
+		["Cubed", "icecube", [0, 252, 255]],
+		["Frostflame", "freezebird", [38, 187, 220]]
+	],
+
+	"weekCharacters": [
+		"freezebird",
+		"norman",
+		"gf"
+	],
+	"weekBackground": "digitoll",
+	
+	"storyName": "THE JEWEL MINES",
+	"weekBefore": "week 4",
+	"weekName": "Week 5",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Funny Fard",
+			"dwof",
+			[
+				255,
+				195,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "HAHA FUNNY FARD",
+	"weekName": "Funny Fard",
+	"freeplayColor": [
+		255,
+		195,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "moderation",
+	"startUnlocked": true
+}

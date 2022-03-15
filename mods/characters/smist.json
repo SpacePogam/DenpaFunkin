@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-250
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "smist left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-250
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "smist down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-200
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "smist up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-250
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "smist right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-250
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "smist idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/smist",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "smist",
+	"flip_x": true,
+	"healthbar_colors": [
+		252,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

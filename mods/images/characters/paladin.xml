@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TextureAtlas imagePath="paladin.png">
-<SubTexture name="Paladin down0000" x="0" y="860" width="295" height="410" frameX="-15" frameY="-70" frameWidth="320" frameHeight="480" />
-<SubTexture name="Paladin down0001" x="295" y="860" width="295" height="395" frameX="-15" frameY="-85" frameWidth="320" frameHeight="480" />
-<SubTexture name="Paladin idle0000" x="0" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Paladin idle0001" x="280" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Paladin idle0002" x="860" y="430" width="280" height="420" frameX="-20" frameY="-60" frameWidth="320" frameHeight="480" />
-<SubTexture name="Paladin idle0003" x="0" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Paladin left0000" x="560" y="0" width="300" height="430" frameX="-10" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Paladin left0001" x="0" y="430" width="305" height="430" frameX="-5" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Paladin right0000" x="305" y="430" width="290" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Paladin right0001" x="860" y="0" width="285" height="430" frameX="-25" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Paladin up0000" x="1145" y="0" width="280" height="420" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Paladin up0001" x="1145" y="420" width="280" height="420" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="paladin down0000" x="0" y="860" width="295" height="410" frameX="-15" frameY="-70" frameWidth="320" frameHeight="480" />
+<SubTexture name="paladin down0001" x="295" y="860" width="295" height="395" frameX="-15" frameY="-85" frameWidth="320" frameHeight="480" />
+<SubTexture name="paladin idle0000" x="0" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="paladin idle0001" x="280" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="paladin idle0002" x="860" y="430" width="280" height="420" frameX="-20" frameY="-60" frameWidth="320" frameHeight="480" />
+<SubTexture name="paladin idle0003" x="0" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="paladin left0000" x="560" y="0" width="300" height="430" frameX="-10" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="paladin left0001" x="0" y="430" width="305" height="430" frameX="-5" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="paladin right0000" x="305" y="430" width="290" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="paladin right0001" x="860" y="0" width="285" height="430" frameX="-25" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="paladin up0000" x="1145" y="0" width="280" height="420" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="paladin up0001" x="1145" y="420" width="280" height="420" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
 </TextureAtlas>

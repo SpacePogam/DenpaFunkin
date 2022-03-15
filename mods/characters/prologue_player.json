@@ -9,7 +9,7 @@
 			"fps": 20,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "BOYFRIEND left"
+			"name": "p left"
 		},
 		{
 			"offsets": [
@@ -20,7 +20,7 @@
 			"fps": 20,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "BOYFRIEND down"
+			"name": "p down"
 		},
 		{
 			"offsets": [
@@ -31,7 +31,7 @@
 			"fps": 20,
 			"anim": "singUP",
 			"indices": [],
-			"name": "BOYFRIEND up"
+			"name": "p up"
 		},
 		{
 			"offsets": [
@@ -42,7 +42,7 @@
 			"fps": 20,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "BOYFRIEND right"
+			"name": "p right"
 		},
 		{
 			"offsets": [
@@ -53,7 +53,7 @@
 			"fps": 8,
 			"anim": "idle",
 			"indices": [],
-			"name": "BOYFRIEND idle"
+			"name": "p idle"
 		}
 	],
 	"no_antialiasing": true,

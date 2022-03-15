@@ -1,0 +1,31 @@
+{
+	"storyName": "DEBATE TIME",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		99,
+		155,
+		255
+	],
+	"weekBefore": "week 7",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Moderation",
+			"Moo",
+			[
+				99,
+				155,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Moderation"
+}

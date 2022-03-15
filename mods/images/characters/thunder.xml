@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TextureAtlas imagePath="thunder.png">
-<SubTexture name="Thunder down0000" x="0" y="860" width="295" height="410" frameX="-15" frameY="-70" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder down0001" x="295" y="860" width="295" height="395" frameX="-15" frameY="-85" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder idle0000" x="0" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder idle0001" x="280" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder idle0002" x="860" y="430" width="280" height="420" frameX="-20" frameY="-60" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder idle0003" x="0" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder left0000" x="560" y="0" width="300" height="430" frameX="-10" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder left0001" x="0" y="430" width="305" height="430" frameX="-5" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder right0000" x="305" y="430" width="290" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder right0001" x="860" y="0" width="285" height="430" frameX="-25" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder up0000" x="1145" y="0" width="280" height="420" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder up0001" x="1145" y="420" width="280" height="420" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder sdown0000" x="0" y="860" width="295" height="410" frameX="-15" frameY="-70" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder sdown0001" x="295" y="860" width="295" height="395" frameX="-15" frameY="-85" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder sleft0000" x="560" y="0" width="300" height="430" frameX="-10" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder sleft0001" x="0" y="430" width="305" height="430" frameX="-5" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder sright0000" x="305" y="430" width="290" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder sright0001" x="860" y="0" width="285" height="430" frameX="-25" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder sup0000" x="1145" y="0" width="280" height="420" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="Thunder sup0001" x="1145" y="420" width="280" height="420" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder down0000" x="0" y="860" width="295" height="410" frameX="-15" frameY="-70" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder down0001" x="295" y="860" width="295" height="395" frameX="-15" frameY="-85" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder idle0000" x="0" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder idle0001" x="280" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder idle0002" x="860" y="430" width="280" height="420" frameX="-20" frameY="-60" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder idle0003" x="0" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder left0000" x="560" y="0" width="300" height="430" frameX="-10" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder left0001" x="0" y="430" width="305" height="430" frameX="-5" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder right0000" x="305" y="430" width="290" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder right0001" x="860" y="0" width="285" height="430" frameX="-25" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder up0000" x="1145" y="0" width="280" height="420" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder up0001" x="1145" y="420" width="280" height="420" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder sdown0000" x="0" y="860" width="295" height="410" frameX="-15" frameY="-70" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder sdown0001" x="295" y="860" width="295" height="395" frameX="-15" frameY="-85" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder sleft0000" x="560" y="0" width="300" height="430" frameX="-10" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder sleft0001" x="0" y="430" width="305" height="430" frameX="-5" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder sright0000" x="305" y="430" width="290" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder sright0001" x="860" y="0" width="285" height="430" frameX="-25" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder sup0000" x="1145" y="0" width="280" height="420" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<SubTexture name="thunder sup0001" x="1145" y="420" width="280" height="420" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
 </TextureAtlas>

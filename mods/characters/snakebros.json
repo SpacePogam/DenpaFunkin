@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lsnake left"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "lsnake down"
+		},
+		{
+			"offsets": [
+				-150,
+				-200
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "lsnake up"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "lsnake right"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "both idle"
+		},
+				{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "rsnake left"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "rsnake down"
+		},
+		{
+			"offsets": [
+				-150,
+				-200
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "rsnake up"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "rsnake right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/snakebros",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "snakebros",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

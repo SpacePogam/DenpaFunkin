@@ -8,7 +8,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 20,
-			"name": "Avid left",
+			"name": "avid left",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 20,
-			"name": "Avid down",
+			"name": "avid down",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singUP",
 			"fps": 20,
-			"name": "Avid up",
+			"name": "avid up",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 20,
-			"name": "Avid right",
+			"name": "avid right",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			],
 			"anim": "idle",
 			"fps": 8,
-			"name": "Avid idle",
+			"name": "avid idle",
 			"indices": []
 		}
 	],

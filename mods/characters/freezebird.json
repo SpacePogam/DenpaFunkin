@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "freeze left"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "freeze down"
+		},
+		{
+			"offsets": [
+				-150,
+				-200
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "freeze up"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "freeze right"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "freeze idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/freezebird",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "freezebird",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

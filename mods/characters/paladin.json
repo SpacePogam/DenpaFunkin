@@ -8,7 +8,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 20,
-			"name": "Paladin left",
+			"name": "paladin left",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 20,
-			"name": "Paladin down",
+			"name": "paladin down",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singUP",
 			"fps": 20,
-			"name": "Paladin up",
+			"name": "paladin up",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 20,
-			"name": "Paladin right",
+			"name": "paladin right",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			],
 			"anim": "idle",
 			"fps": 8,
-			"name": "Paladin idle",
+			"name": "paladin idle",
 			"indices": []
 		}
 	],

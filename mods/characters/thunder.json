@@ -9,7 +9,7 @@
 			"fps": 20,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "Thunder left"
+			"name": "thunder left"
 		},
 		{
 			"offsets": [
@@ -20,7 +20,7 @@
 			"fps": 20,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "Thunder down"
+			"name": "thunder down"
 		},
 		{
 			"offsets": [
@@ -31,7 +31,7 @@
 			"fps": 20,
 			"anim": "singUP",
 			"indices": [],
-			"name": "Thunder up"
+			"name": "thunder up"
 		},
 		{
 			"offsets": [
@@ -42,7 +42,7 @@
 			"fps": 20,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Thunder right"
+			"name": "thunder right"
 		},
 		{
 			"offsets": [
@@ -53,7 +53,7 @@
 			"fps": 20,
 			"anim": "shootLEFT",
 			"indices": [],
-			"name": "Thunder sleft"
+			"name": "thunder sleft"
 		},
 		{
 			"offsets": [
@@ -64,7 +64,7 @@
 			"fps": 20,
 			"anim": "shootDOWN",
 			"indices": [],
-			"name": "Thunder sdown"
+			"name": "thunder sdown"
 		},
 		{
 			"offsets": [
@@ -75,7 +75,7 @@
 			"fps": 20,
 			"anim": "shootUP",
 			"indices": [],
-			"name": "Thunder sup"
+			"name": "thunder sup"
 		},
 		{
 			"offsets": [
@@ -86,7 +86,7 @@
 			"fps": 20,
 			"anim": "shootRIGHT",
 			"indices": [],
-			"name": "Thunder sright"
+			"name": "thunder sright"
 		},
 		{
 			"offsets": [
@@ -97,7 +97,7 @@
 			"fps": 8,
 			"anim": "idle",
 			"indices": [],
-			"name": "Thunder idle"
+			"name": "thunder idle"
 		}
 	],
 	"no_antialiasing": true,
