@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Demise", "dmist", [0, 0, 24]],
+		["Waterfall", "geyser", [0, 100, 255]],
+		["Shellshocked", "turtle", [0, 0, 255]]
+	],
+
+	"weekCharacters": [
+		"turtle",
+		"norman",
+		"gf"
+	],
+	"weekBackground": "digitoll",
+	
+	"storyName": "THE WATER TEMPLE",
+	"weekBefore": "week 3",
+	"weekName": "Week 4",
+	"startUnlocked": false,
+
+	"hideStoryMode": true,
+	"hideFreeplay": true
+}

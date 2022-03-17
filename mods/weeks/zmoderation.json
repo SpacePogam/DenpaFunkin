@@ -1,7 +1,7 @@
 {
 	"storyName": "DEBATE TIME",
 	"difficulties": "",
-	"hideFreeplay": false,
+	"hideFreeplay": true,
 	"weekBackground": "philly",
 	"freeplayColor": [
 		99,
@@ -9,7 +9,7 @@
 		255
 	],
 	"weekBefore": "week 7",
-	"startUnlocked": true,
+	"startUnlocked": false,
 	"weekCharacters": [
 		"",
 		"",
@@ -26,6 +26,6 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"weekName": "Moderation"
 }

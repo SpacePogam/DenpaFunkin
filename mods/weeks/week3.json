@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["TBD", "face", [0, 0, 24]],
+		["RBD", "face", [0, 100, 255]],
+		["TBD", "earthdragon", [0, 0, 255]]
+	],
+
+	"weekCharacters": [
+		"earthdragon",
+		"norman",
+		"gf"
+	],
+	"weekBackground": "digitoll",
+	
+	"storyName": "THE DARK RUINS",
+	"weekBefore": "week 2",
+	"weekName": "Week 3",
+	"startUnlocked": false,
+
+	"hideStoryMode": true,
+	"hideFreeplay": true
+}

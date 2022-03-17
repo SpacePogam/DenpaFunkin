@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["TBD", "face", [255, 0, 0]],
+		["TBD", "face", [255, 0, 0]],
+		["TBD", "firebird", [255, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"firebird",
+		"norman",
+		"gf"
+	],
+	"weekBackground": "digitoll",
+	
+	"storyName": "THE VOLCANO",
+	"weekBefore": "week 1",
+	"weekName": "Week 2",
+	"startUnlocked": false,
+
+	"hideStoryMode": true,
+	"hideFreeplay": true
+}
