@@ -8,7 +8,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 20,
-			"name": "BOYFRIEND left",
+			"name": "jasber left",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 20,
-			"name": "BOYFRIEND down",
+			"name": "jasber down",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singUP",
 			"fps": 20,
-			"name": "BOYFRIEND up",
+			"name": "jasber up",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 20,
-			"name": "BOYFRIEND right",
+			"name": "jasber right",
 			"indices": []
 		},
 		{
@@ -52,27 +52,27 @@
 			],
 			"anim": "idle",
 			"fps": 8,
-			"name": "BOYFRIEND idle",
+			"name": "jasber idle",
 			"indices": []
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/front_norman",
+	"image": "characters/jasber",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "norman",
+	"healthicon": "jasber",
 	"flip_x": true,
 	"healthbar_colors": [
 		255,
-		255,
+		106,
 		255
 	],
 	"camera_position": [
-		90,
-		470
+		0,
+		230
 	],
 	"sing_duration": 6.1,
-	"scale": 0.5
+	"scale": 1.2
 }

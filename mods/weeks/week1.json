@@ -1,8 +1,8 @@
 {
 	"songs": [
 		["Rick Battle", "rick", [255, 41, 35]],
-		["MARY", "mary", [255, 41, 35]],
-		["Kids", "jasber", [255, 41, 35]]
+		["MARY", "mary", [255, 255, 0]],
+		["Kids", "jasber", [252, 173, 243]]
 	],
 
 	"weekCharacters": [

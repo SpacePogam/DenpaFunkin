@@ -8,7 +8,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 20,
-			"name": "BOYFRIEND left",
+			"name": "mary left",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 20,
-			"name": "BOYFRIEND down",
+			"name": "mary down",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singUP",
 			"fps": 20,
-			"name": "BOYFRIEND up",
+			"name": "mary up",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 20,
-			"name": "BOYFRIEND right",
+			"name": "mary right",
 			"indices": []
 		},
 		{
@@ -52,27 +52,27 @@
 			],
 			"anim": "idle",
 			"fps": 8,
-			"name": "BOYFRIEND idle",
+			"name": "mary idle",
 			"indices": []
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/front_norman",
+	"image": "characters/mary",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "norman",
+	"healthicon": "mary",
 	"flip_x": true,
 	"healthbar_colors": [
-		255,
-		255,
-		255
+		252,
+		253,
+		48
 	],
 	"camera_position": [
-		90,
-		470
+		0,
+		230
 	],
 	"sing_duration": 6.1,
-	"scale": 0.5
+	"scale": 1.2
 }
