@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crystal.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crystal idle0000" x="0" y="0" width="120" height="106"/>
+	<SubTexture name="crystal idle0001" x="0" y="0" width="120" height="106"/>
+	<SubTexture name="crystal idle0002" x="130" y="0" width="120" height="106"/>
+	<SubTexture name="crystal idle0003" x="130" y="0" width="120" height="106"/>
+	<SubTexture name="crystal idle0004" x="130" y="0" width="120" height="106"/>
+	<SubTexture name="crystal idle0005" x="260" y="0" width="120" height="106"/>
+	<SubTexture name="crystal idle0006" x="260" y="0" width="120" height="106"/>
+	<SubTexture name="crystal idle0007" x="260" y="0" width="120" height="106"/>
+	<SubTexture name="crystal idle0008" x="260" y="0" width="120" height="106"/>
+	<SubTexture name="crystal idle0009" x="390" y="0" width="120" height="106"/>
+	<SubTexture name="crystal idle0010" x="390" y="0" width="120" height="106"/>
+	<SubTexture name="crystal idle0011" x="390" y="0" width="120" height="106"/>
+	<SubTexture name="crystal idle0012" x="390" y="0" width="120" height="106"/>
+	<SubTexture name="crystal idle0013" x="0" y="116" width="120" height="106"/>
+	<SubTexture name="crystal idle0014" x="0" y="116" width="120" height="106"/>
+	<SubTexture name="crystal idle0015" x="130" y="116" width="120" height="106"/>
+	<SubTexture name="crystal idle0016" x="130" y="116" width="120" height="106"/>
+	<SubTexture name="crystal idle0017" x="260" y="116" width="120" height="106"/>
+	<SubTexture name="crystal idle0018" x="260" y="116" width="120" height="106"/>
+	<SubTexture name="crystal idle0019" x="260" y="116" width="120" height="106"/>
+	<SubTexture name="crystal idle0020" x="390" y="116" width="120" height="106"/>
+	<SubTexture name="crystal idle0021" x="390" y="116" width="120" height="106"/>
+	<SubTexture name="crystal idle0022" x="390" y="116" width="120" height="106"/>
+	<SubTexture name="crystal idle0023" x="390" y="116" width="120" height="106"/>
+	<SubTexture name="crystal idle0024" x="390" y="116" width="120" height="106"/>
+	<SubTexture name="crystal idle0025" x="0" y="232" width="120" height="106"/>
+	<SubTexture name="crystal idle0026" x="0" y="232" width="120" height="106"/>
+	<SubTexture name="crystal idle0027" x="0" y="232" width="120" height="106"/>
+	<SubTexture name="crystal idle0028" x="0" y="232" width="120" height="106"/>
+	<SubTexture name="crystal idle0029" x="0" y="232" width="120" height="106"/>
+</TextureAtlas>
