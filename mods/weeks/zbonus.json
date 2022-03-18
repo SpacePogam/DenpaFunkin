@@ -1,15 +1,15 @@
 {
-	"storyName": "DEBATE TIME",
+	"storyName": "BONUS SONGS",
 	"difficulties": "",
-	"hideFreeplay": true,
-	"weekBackground": "philly",
+	"hideFreeplay": false,
+	"weekBackground": "digitoll",
 	"freeplayColor": [
 		99,
 		155,
 		255
 	],
 	"weekBefore": "week 7",
-	"startUnlocked": false,
+	"startUnlocked": true,
 	"weekCharacters": [
 		"",
 		"",
@@ -26,6 +26,6 @@
 			]
 		]
 	],
-	"hideStoryMode": true,
-	"weekName": "Moderation"
+	"hideStoryMode": false,
+	"weekName": "Bonus"
 }
