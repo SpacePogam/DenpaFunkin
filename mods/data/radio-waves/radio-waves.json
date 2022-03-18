@@ -523,12 +523,112 @@
 				"bpm": 150
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 140,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 140,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 140,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 140
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 140
+			},
+			{
 				"gfSection": false,
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 150,
+				"bpm": 140,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
@@ -538,7 +638,7 @@
 				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 150,
+				"bpm": 140,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
@@ -548,27 +648,7 @@
 				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 150,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"gfSection": false,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 150,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"gfSection": false,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 150,
+				"bpm": 140,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
@@ -604,12 +684,133 @@
 			}
 		],
 		"gfVersion": "prologue_player",
-		"events": [],
+		"events": [
+			[
+				0,
+				[
+					[
+						"MoveArrow",
+						"7",
+						"0 0 0 0 0.1"
+					]
+				]
+			],
+			[
+				107.142857142857,
+				[
+					[
+						"MoveArrow",
+						"6",
+						"0 0 0 0 0.1"
+					]
+				]
+			],
+			[
+				214.285714285714,
+				[
+					[
+						"MoveArrow",
+						"5",
+						"0 0 0 0 0.1"
+					]
+				]
+			],
+			[
+				321.428571428571,
+				[
+					[
+						"MoveArrow",
+						"4",
+						"0 0 0 0 0.1"
+					]
+				]
+			],
+			[
+				428.571428571429,
+				[
+					[
+						"MoveArrow",
+						"3",
+						"320 0 0 1 1"
+					]
+				]
+			],
+			[
+				535.714285714286,
+				[
+					[
+						"MoveArrow",
+						"2",
+						"320 0 0 1 1"
+					]
+				]
+			],
+			[
+				642.857142857143,
+				[
+					[
+						"MoveArrow",
+						"1",
+						"320 0 0 1 1"
+					]
+				]
+			],
+			[
+				750,
+				[
+					[
+						"MoveArrow",
+						"0",
+						"320 0 0 1 1"
+					]
+				]
+			],
+			[
+				69214.2857142858,
+				[
+					[
+						"MoveArrow",
+						"0",
+						"0 0 0 0 1"
+					]
+				]
+			],
+			[
+				69321.4285714286,
+				[
+					[
+						"MoveArrow",
+						"1",
+						"0 0 0 0 1"
+					]
+				]
+			],
+			[
+				69428.5714285715,
+				[
+					[
+						"MoveArrow",
+						"2",
+						"0 0 0 0 1"
+					]
+				]
+			],
+			[
+				69535.7142857143,
+				[
+					[
+						"MoveArrow",
+						"3",
+						"0 0 0 0 1"
+					]
+				]
+			]
+		],
 		"player3": null,
 		"song": "Radio Waves",
 		"validScore": true,
 		"needsVoices": true,
-		"stage": "digitoll",
+		"stage": "polite",
 		"speed": 0.6,
 		"bpm": 140
 	}

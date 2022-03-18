@@ -8,7 +8,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 20,
-			"name": "BOYFRIEND left",
+			"name": "front-norman left",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 20,
-			"name": "BOYFRIEND down",
+			"name": "front-norman down",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singUP",
 			"fps": 20,
-			"name": "BOYFRIEND up",
+			"name": "front-norman up",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 20,
-			"name": "BOYFRIEND right",
+			"name": "front-norman right",
 			"indices": []
 		},
 		{
@@ -52,12 +52,12 @@
 			],
 			"anim": "idle",
 			"fps": 8,
-			"name": "BOYFRIEND idle",
+			"name": "front-norman idle",
 			"indices": []
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/front_norman",
+	"image": "characters/front-norman",
 	"position": [
 		0,
 		0
@@ -70,9 +70,9 @@
 		255
 	],
 	"camera_position": [
-		90,
-		470
+		-30,
+		330
 	],
 	"sing_duration": 6.1,
-	"scale": 0.5
+	"scale": 2.3
 }
