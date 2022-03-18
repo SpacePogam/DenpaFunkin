@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Norman",
+	"position": [
+		15,
+		50
+	],
+	"scale": 0.7,
+	"idle_anim": "idle",
+	"confirm_anim": "hey"
+}
