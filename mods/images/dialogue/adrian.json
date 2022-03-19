@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		190,
+		220
+	],
+	"no_antialiasing": true,
+	"scale": 6,
+	"animations": [
+		{
+			"loop_name": "adrian left",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "adrian idle",
+			"anim": "talk 1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "adrian"
+}

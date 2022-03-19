@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		200,
+		220
+	],
+	"no_antialiasing": true,
+	"scale": 5.99999999999999,
+	"animations": [
+		{
+			"loop_name": "rick down",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "rick idle",
+			"anim": "talk 1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "rick"
+}

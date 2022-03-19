@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		180,
+		200
+	],
+	"no_antialiasing": true,
+	"scale": 6,
+	"animations": [
+		{
+			"loop_name": "moo down",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "moo idle",
+			"anim": "talk 1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "moo"
+}
