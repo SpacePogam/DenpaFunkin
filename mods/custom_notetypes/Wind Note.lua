@@ -22,5 +22,6 @@ end
 function noteMiss(id, direction, noteType, isSustainNote)
         if noteType == "Wind Note" then
                 setProperty('health', 0.1);
+				playSound('wind', '0.5');
         end
 end
