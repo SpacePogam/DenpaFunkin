@@ -3,18 +3,14 @@
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "digitoll",
+	"weekBefore": "week 1",
 	"freeplayColor": [
 		99,
 		155,
 		255
 	],
-	"weekBefore": "week 7",
-	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Moderation",
@@ -26,6 +22,10 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"weekName": "Bonus"
 }

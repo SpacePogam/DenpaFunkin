@@ -1,22 +1,43 @@
 {
-	"songs": [
-		["Rick Battle", "rick", [255, 41, 35]],
-		["MARY", "mary", [255, 255, 0]],
-		["Kids", "jasber", [252, 173, 243]]
-	],
-
+	"storyName": "DIGITOLL",
+	"hideFreeplay": false,
+	"weekBackground": "digitoll",
+	"weekBefore": "tutorial",
+	"startUnlocked": false,
 	"weekCharacters": [
 		"rick",
 		"norman",
 		""
 	],
-	"weekBackground": "digitoll",
-	
-	"storyName": "DIGITOLL",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"Rick Battle",
+			"rick",
+			[
+				255,
+				41,
+				35
+			]
+		],
+		[
+			"MARY",
+			"mary",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Kids",
+			"jasber",
+			[
+				252,
+				173,
+				243
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Week 1"
 }
