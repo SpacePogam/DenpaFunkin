@@ -3,14 +3,18 @@
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "digitoll",
-	"weekBefore": "week 1",
 	"freeplayColor": [
 		99,
 		155,
 		255
 	],
-	"startUnlocked": false,
-	"hideStoryMode": false,
+	"weekBefore": "week 1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
 			"Moderation",
@@ -20,12 +24,17 @@
 				155,
 				255
 			]
+		],
+		[
+			"Gospel",
+			"Tempester",
+			[
+				200,
+				207,
+				126
+			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"hideStoryMode": false,
 	"weekName": "Bonus"
 }

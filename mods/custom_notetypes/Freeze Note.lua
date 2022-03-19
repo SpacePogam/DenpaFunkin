@@ -22,9 +22,9 @@ end
 -- noteType: The note type string/tag
 -- isSustainNote: If it's a hold note, can be either true or false
 function goodNoteHit(id, noteData, noteType, isSustainNote)
-	if noteType == 'Freeze Note' then
-		playSound('wellwellwell', 0.5);
-	end
+		if noteType == 'Freeze Note' then
+				playSound('freeze', '1');
+		end
 end
 
 -- Called after the note miss calculations
