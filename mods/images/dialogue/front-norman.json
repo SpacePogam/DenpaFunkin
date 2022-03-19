@@ -1,0 +1,64 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		0,
+		200
+	],
+	"no_antialiasing": true,
+	"scale": 3,
+	"animations": [
+		{
+			"loop_name": "front-norman down",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "front-norman idle",
+			"anim": "talk 1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "front-norman left",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "front-norman idle",
+			"anim": "talk 2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "front-norman right",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "front-norman idle",
+			"anim": "talk 3",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "front-norman up",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "front-norman idle",
+			"anim": "talk 4",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "front-norman"
+}
