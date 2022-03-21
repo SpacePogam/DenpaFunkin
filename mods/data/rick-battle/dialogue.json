@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk 2",
+			"text": "Hello, Rick.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "norman"
+		},
+		{
+			"expression": "talk",
+			"text": "Hello Norman.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rick"
+		},
+		{
+			"expression": "talk 2",
+			"text": "Let's rap.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "norman"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok, Norman.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rick"
+		},
+		{
+			"expression": "talk",
+			"text": "But I won't go easy on you.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "rick"
+		},
+		{
+			"expression": "talk 2",
+			"text": "OK.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "norman"
+		}
+	]
+}

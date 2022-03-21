@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "norman",
+			"boxState": "normal",
+			"expression": "talk 2",
+			"text": "What the funk"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chuckles",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Chuckles"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "norman",
+			"boxState": "normal",
+			"expression": "talk 2",
+			"text": "Chuckles the Knuckles real???"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chuckles",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm in your walls"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "norman",
+			"boxState": "angry",
+			"expression": "talk 2",
+			"text": "Nooooooooooooooooooooooooooooooooooooooo!"
+		}
+	]
+}
