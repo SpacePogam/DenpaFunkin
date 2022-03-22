@@ -3,7 +3,7 @@
 	"hideFreeplay": false,
 	"weekBackground": "digitoll",
 	"weekBefore": "tutorial",
-	"startUnlocked": false,
+	"startUnlocked": true,
 	"weekCharacters": [
 		"rick",
 		"norman",
