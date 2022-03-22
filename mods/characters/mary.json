@@ -3,7 +3,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-150,
+				-153,
 				-250
 			],
 			"anim": "singLEFT",
@@ -59,11 +59,11 @@
 	"no_antialiasing": true,
 	"image": "characters/mary",
 	"position": [
-		0,
-		0
+		50,
+		150
 	],
 	"healthicon": "mary",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		252,
 		253,
@@ -71,8 +71,8 @@
 	],
 	"camera_position": [
 		0,
-		230
+		100
 	],
 	"sing_duration": 6.1,
-	"scale": 1.2
+	"scale": 7
 }
