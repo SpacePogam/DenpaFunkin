@@ -1,69 +1,69 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
+			"loop": false,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "jasber idle"
+		},
+		{
+			"offsets": [
+				-154,
+				-250
+			],
+			"indices": [],
+			"fps": 16,
 			"anim": "singLEFT",
-			"fps": 20,
-			"name": "jasber left",
-			"indices": []
+			"loop": false,
+			"name": "jasber left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
+			"indices": [],
+			"fps": 16,
 			"anim": "singDOWN",
-			"fps": 20,
-			"name": "jasber down",
-			"indices": []
+			"loop": false,
+			"name": "jasber down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-150,
 				-200
 			],
+			"indices": [],
+			"fps": 16,
 			"anim": "singUP",
-			"fps": 20,
-			"name": "jasber up",
-			"indices": []
+			"loop": false,
+			"name": "jasber up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
+			"indices": [],
+			"fps": 16,
 			"anim": "singRIGHT",
-			"fps": 20,
-			"name": "jasber right",
-			"indices": []
-		},
-		{
 			"loop": false,
-			"offsets": [
-				-150,
-				-250
-			],
-			"anim": "idle",
-			"fps": 8,
-			"name": "jasber idle",
-			"indices": []
+			"name": "jasber right"
 		}
 	],
 	"no_antialiasing": true,
 	"image": "characters/jasber",
 	"position": [
 		0,
-		0
+		150
 	],
 	"healthicon": "jasber",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		255,
 		106,
@@ -71,8 +71,8 @@
 	],
 	"camera_position": [
 		0,
-		230
+		200
 	],
 	"sing_duration": 6.1,
-	"scale": 1.2
+	"scale": 7
 }

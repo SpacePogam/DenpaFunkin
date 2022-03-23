@@ -1,15 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="jasber.png">
-<SubTexture name="jasber down0000" x="0" y="860" width="295" height="410" frameX="-15" frameY="-70" frameWidth="320" frameHeight="480" />
-<SubTexture name="jasber down0001" x="295" y="860" width="295" height="395" frameX="-15" frameY="-85" frameWidth="320" frameHeight="480" />
-<SubTexture name="jasber idle0000" x="0" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="jasber idle0001" x="280" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="jasber idle0002" x="860" y="430" width="280" height="420" frameX="-20" frameY="-60" frameWidth="320" frameHeight="480" />
-<SubTexture name="jasber idle0003" x="0" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="jasber left0000" x="560" y="0" width="300" height="430" frameX="-10" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="jasber left0001" x="0" y="430" width="305" height="430" frameX="-5" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="jasber right0000" x="305" y="430" width="290" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="jasber right0001" x="860" y="0" width="285" height="430" frameX="-25" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="jasber up0000" x="1145" y="0" width="280" height="420" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="jasber up0001" x="1145" y="420" width="280" height="420" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
+<TextureAtlas imagePath="jasber.png"><SubTexture name="jasber down0000" x="0" y="0" width="58" height="40" frameX="-20" frameY="-56" frameWidth="96" frameHeight="96" />
+<SubTexture name="jasber down0001" x="0" y="120" width="58" height="39" frameX="-21" frameY="-57" frameWidth="96" frameHeight="96" />
+<SubTexture name="jasber idle0000" x="58" y="0" width="60" height="40" frameX="-18" frameY="-56" frameWidth="96" frameHeight="96" />
+<SubTexture name="jasber idle0001" x="0" y="40" width="60" height="40" frameX="-18" frameY="-56" frameWidth="96" frameHeight="96" />
+<SubTexture name="jasber idle0002" x="58" y="120" width="60" height="39" frameX="-18" frameY="-57" frameWidth="96" frameHeight="96" />
+<SubTexture name="jasber idle0003" x="118" y="120" width="60" height="39" frameX="-18" frameY="-57" frameWidth="96" frameHeight="96" />
+<SubTexture name="jasber left0000" x="118" y="0" width="62" height="40" frameX="-16" frameY="-56" frameWidth="96" frameHeight="96" />
+<SubTexture name="jasber left0001" x="118" y="40" width="59" height="40" frameX="-15" frameY="-56" frameWidth="96" frameHeight="96" />
+<SubTexture name="jasber right0000" x="60" y="40" width="57" height="40" frameX="-22" frameY="-56" frameWidth="96" frameHeight="96" />
+<SubTexture name="jasber right0001" x="0" y="80" width="57" height="40" frameX="-22" frameY="-56" frameWidth="96" frameHeight="96" />
+<SubTexture name="jasber up0000" x="57" y="80" width="60" height="40" frameX="-18" frameY="-54" frameWidth="96" frameHeight="96" />
+<SubTexture name="jasber up0001" x="117" y="80" width="60" height="40" frameX="-18" frameY="-53" frameWidth="96" frameHeight="96" />
 </TextureAtlas>
