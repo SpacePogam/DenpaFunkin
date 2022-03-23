@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		190,
+		210
+	],
+	"no_antialiasing": true,
+	"scale": 6,
+	"animations": [
+		{
+			"loop_name": "mary right",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "mary idle",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "mary"
+}

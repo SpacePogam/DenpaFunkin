@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mary.png"><SubTexture name="mary down0000" x="46" y="78" width="38" height="74" frameX="-14" frameY="-22" frameWidth="64" frameHeight="96" />
+<SubTexture name="mary down0001" x="0" y="78" width="46" height="75" frameX="-6" frameY="-21" frameWidth="64" frameHeight="96" />
+<SubTexture name="mary idle0000" x="84" y="78" width="37" height="74" frameX="-14" frameY="-22" frameWidth="64" frameHeight="96" />
+<SubTexture name="mary left0000" x="102" y="0" width="49" height="76" frameX="-12" frameY="-20" frameWidth="64" frameHeight="96" />
+<SubTexture name="mary left0001" x="0" y="0" width="48" height="78" frameX="-9" frameY="-18" frameWidth="64" frameHeight="96" />
+<SubTexture name="mary right0000" x="151" y="0" width="51" height="76" frameX="-3" frameY="-20" frameWidth="64" frameHeight="96" />
+<SubTexture name="mary right0001" x="48" y="0" width="54" height="78" frameX="-5" frameY="-18" frameWidth="64" frameHeight="96" />
+<SubTexture name="mary up0000" x="202" y="0" width="61" height="73" frameX="-2" frameY="-22" frameWidth="64" frameHeight="96" />
+<SubTexture name="mary up0001" x="202" y="73" width="61" height="73" frameX="-2" frameY="-22" frameWidth="64" frameHeight="96" />
+</TextureAtlas>

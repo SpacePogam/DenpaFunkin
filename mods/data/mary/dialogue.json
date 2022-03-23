@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rick",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're really good at this, Norman!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "norman",
+			"boxState": "normal",
+			"expression": "talk 2",
+			"text": "Thanks, I practice in the mirror every night."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mary",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Norman!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "norman",
+			"boxState": "angry",
+			"expression": "talk 1",
+			"text": "Mary?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "norman",
+			"boxState": "normal",
+			"expression": "talk 2",
+			"text": "Didn't you hurt your leg?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mary",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That won't stop me from having fun!\\nLet's rap Norman!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "norman",
+			"boxState": "normal",
+			"expression": "talk 2",
+			"text": "OK."
+		}
+	]
+}

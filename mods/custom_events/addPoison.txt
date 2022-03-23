@@ -1,0 +1,2 @@
+adds to the poison count.
+Value 1: how much poison?

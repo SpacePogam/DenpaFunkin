@@ -23,7 +23,6 @@ end
 -- isSustainNote: If it's a hold note, can be either true or false
 function goodNoteHit(id, noteData, noteType, isSustainNote)
 		if noteType == 'Freeze Note' then
-				playSound('freeze', '1');
 		end
 end
 

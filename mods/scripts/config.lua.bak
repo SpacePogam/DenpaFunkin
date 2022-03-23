@@ -1,0 +1,32 @@
+-- FOR ADVANCED USERS ONLY 
+-- change the value on the right to true or false to customize the notes sounds and Animations
+
+
+local fatalSound = true;
+local insultSound = true;
+local freezeSound = true;
+
+function goodNoteHit(id, noteData, noteType, isSustainNote)
+-- Sounds
+	if fatalSound == true then
+		if getProperty('isPixelStage') then
+			if noteType == 'Fatal Note' then
+			playSound("fatal", 1);
+			end
+		end
+	end
+	if insultSound == true then
+		if getProperty('isPixelStage') then
+			if noteType == 'Weaken Note' then
+			playSound("weaken", 1);
+			end
+		end
+	end
+	if freezeSound == true then
+		if getProperty('isPixelStage') == true then
+			if noteType == 'Freeze Note' then
+			playSound("freeze", 1)
+			end
+		end
+	end
+end
