@@ -17,7 +17,7 @@
 			"text": "Thanks, I practice in the mirror every night."
 		},
 		{
-			"sound": "",
+			"sound": "femaletalk",
 			"speed": 0.05,
 			"portrait": "mary",
 			"boxState": "normal",
@@ -41,7 +41,7 @@
 			"text": "Didn't you hurt your leg?"
 		},
 		{
-			"sound": "",
+			"sound": "femaletalk",
 			"speed": 0.05,
 			"portrait": "mary",
 			"boxState": "normal",

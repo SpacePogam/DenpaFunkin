@@ -1,7 +1,7 @@
 {
 	"songs": [
 		["TBD", "face", [255, 0, 0]],
-		["TBD", "face", [255, 0, 0]],
+		["Brainwashed", "avid", [24, 24, 24]],
 		["TBD", "firebird", [255, 0, 0]]
 	],
 
@@ -15,8 +15,8 @@
 	"storyName": "THE VOLCANO",
 	"weekBefore": "week 1",
 	"weekName": "Week 2",
-	"startUnlocked": false,
+	"startUnlocked": true,
 
-	"hideStoryMode": true,
-	"hideFreeplay": true
+	"hideStoryMode": false,
+	"hideFreeplay": false
 }
