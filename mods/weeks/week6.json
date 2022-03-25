@@ -1,23 +1,43 @@
 {
-	"songs": [
-		["Moldy", "rotten", [23, 145, 38]],
-		["Rich", "paladin", [177, 2, 16]],
-		["Downburst", "tempester", [200, 207, 126]],
-		["Hot", "tempester", [200, 207, 126]]
-	],
-
+	"storyName": "THE SHOCK TEMPLE",
+	"hideFreeplay": true,
+	"weekBackground": "digitoll",
+	"weekBefore": "week 6",
+	"startUnlocked": false,
 	"weekCharacters": [
-		"tempester",
+		"thunder",
 		"norman",
 		""
 	],
-	"weekBackground": "digitoll",
-	
-	"storyName": "THE WIND TOWER",
-	"weekBefore": "week 5",
-	"weekName": "Week 6",
-	"startUnlocked": false,
-
+	"songs": [
+		[
+			"Ancient",
+			"smist",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Curse",
+			"avid",
+			[
+				24,
+				24,
+				24
+			]
+		],
+		[
+			"Automation",
+			"thunder",
+			[
+				233,
+				226,
+				44
+			]
+		]
+	],
 	"hideStoryMode": true,
-	"hideFreeplay": true
+	"weekName": "Week 6"
 }

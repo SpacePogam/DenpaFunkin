@@ -1,22 +1,43 @@
 {
-	"songs": [
-		["TBD", "face", [255, 0, 0]],
-		["Brainwashed", "avid", [24, 24, 24]],
-		["TBD", "firebird", [255, 0, 0]]
-	],
-
+	"storyName": "THE DARK RUINS",
+	"hideFreeplay": true,
+	"weekBackground": "digitoll",
+	"weekBefore": "week 2",
+	"startUnlocked": false,
 	"weekCharacters": [
-		"firebird",
+		"earthdragon",
 		"norman",
 		""
 	],
-	"weekBackground": "digitoll",
-	
-	"storyName": "THE VOLCANO",
-	"weekBefore": "week 1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"songs": [
+		[
+			"TBD",
+			"face",
+			[
+				0,
+				0,
+				24
+			]
+		],
+		[
+			"RBD",
+			"face",
+			[
+				0,
+				100,
+				255
+			]
+		],
+		[
+			"TBD",
+			"earthdragon",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week 2"
 }

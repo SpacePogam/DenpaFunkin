@@ -1,22 +1,43 @@
 {
-	"songs": [
-		["Demise", "dmist", [0, 0, 24]],
-		["Waterfall", "geyser", [0, 100, 255]],
-		["Shellshocked", "turtle", [0, 0, 255]]
-	],
-
+	"storyName": "THE JEWEL MINES",
+	"hideFreeplay": true,
+	"weekBackground": "digitoll",
+	"weekBefore": "week 4",
+	"startUnlocked": false,
 	"weekCharacters": [
-		"turtle",
+		"freezebird",
 		"norman",
 		""
 	],
-	"weekBackground": "digitoll",
-	
-	"storyName": "THE WATER TEMPLE",
-	"weekBefore": "week 3",
-	"weekName": "Week 4",
-	"startUnlocked": false,
-
+	"songs": [
+		[
+			"Brothers",
+			"snakebros",
+			[
+				31,
+				8,
+				227
+			]
+		],
+		[
+			"Cubed",
+			"icecube",
+			[
+				0,
+				252,
+				255
+			]
+		],
+		[
+			"Frostflame",
+			"freezebird",
+			[
+				38,
+				187,
+				220
+			]
+		]
+	],
 	"hideStoryMode": true,
-	"hideFreeplay": true
+	"weekName": "Week 4"
 }

@@ -1,22 +1,52 @@
 {
-	"songs": [
-		["Brothers", "snakebros", [31, 8, 227]],
-		["Cubed", "icecube", [0, 252, 255]],
-		["Frostflame", "freezebird", [38, 187, 220]]
-	],
-
+	"storyName": "THE WIND TOWER",
+	"hideFreeplay": true,
+	"weekBackground": "digitoll",
+	"weekBefore": "week 5",
+	"startUnlocked": false,
 	"weekCharacters": [
-		"freezebird",
+		"tempester",
 		"norman",
 		""
 	],
-	"weekBackground": "digitoll",
-	
-	"storyName": "THE JEWEL MINES",
-	"weekBefore": "week 4",
-	"weekName": "Week 5",
-	"startUnlocked": false,
-
+	"songs": [
+		[
+			"Moldy",
+			"rotten",
+			[
+				23,
+				145,
+				38
+			]
+		],
+		[
+			"Rich",
+			"paladin",
+			[
+				177,
+				2,
+				16
+			]
+		],
+		[
+			"Downburst",
+			"tempester",
+			[
+				200,
+				207,
+				126
+			]
+		],
+		[
+			"Hot",
+			"tempester",
+			[
+				200,
+				207,
+				126
+			]
+		]
+	],
 	"hideStoryMode": true,
-	"hideFreeplay": true
+	"weekName": "Week 5"
 }

@@ -1,22 +1,43 @@
 {
-	"songs": [
-		["TBD", "face", [0, 0, 24]],
-		["RBD", "face", [0, 100, 255]],
-		["TBD", "earthdragon", [0, 0, 255]]
-	],
-
+	"storyName": "THE WATER TEMPLE",
+	"hideFreeplay": true,
+	"weekBackground": "digitoll",
+	"weekBefore": "week 3",
+	"startUnlocked": false,
 	"weekCharacters": [
-		"earthdragon",
+		"turtle",
 		"norman",
 		""
 	],
-	"weekBackground": "digitoll",
-	
-	"storyName": "THE DARK RUINS",
-	"weekBefore": "week 2",
-	"weekName": "Week 3",
-	"startUnlocked": false,
-
+	"songs": [
+		[
+			"Demise",
+			"dmist",
+			[
+				0,
+				0,
+				24
+			]
+		],
+		[
+			"Waterfall",
+			"geyser",
+			[
+				0,
+				100,
+				255
+			]
+		],
+		[
+			"Shellshocked",
+			"turtle",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
 	"hideStoryMode": true,
-	"hideFreeplay": true
+	"weekName": "Week 3"
 }

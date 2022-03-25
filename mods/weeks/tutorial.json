@@ -1,20 +1,52 @@
 {
-	"songs": [
-		["Radio Waves", "norman", [255, 255, 255]]
-	],
-
+	"storyName": "ALL AROUND YOU",
+	"hideFreeplay": false,
+	"weekBackground": "digitoll",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
 	"weekCharacters": [
-		"front-norman",
 		"",
+		"front-norman",
 		""
 	],
-	"weekBackground": "digitoll",
-	
-	"storyName": "ALL AROUND YOU",
-	"weekBefore": "tutorial",
-	"weekName": "Prolouge",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"Radio Waves",
+			"norman",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Rick Battle",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"MARY",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Kids",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Prologue"
 }

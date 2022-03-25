@@ -1,40 +1,40 @@
 {
-	"storyName": "DIGITOLL",
+	"storyName": "THE VOLCANO",
 	"hideFreeplay": false,
 	"weekBackground": "digitoll",
-	"weekBefore": "tutorial",
+	"weekBefore": "week 1",
 	"startUnlocked": true,
 	"weekCharacters": [
-		"rick",
+		"firebird",
 		"norman",
 		""
 	],
 	"songs": [
 		[
-			"Rick Battle",
-			"rick",
+			"TBD",
+			"face",
 			[
 				255,
-				41,
-				35
-			]
-		],
-		[
-			"MARY",
-			"mary",
-			[
-				255,
-				255,
+				0,
 				0
 			]
 		],
 		[
-			"Kids",
-			"jasber",
+			"Brainwashed",
+			"avid",
 			[
-				252,
-				173,
-				243
+				24,
+				24,
+				24
+			]
+		],
+		[
+			"TBD",
+			"firebird",
+			[
+				255,
+				0,
+				0
 			]
 		]
 	],
