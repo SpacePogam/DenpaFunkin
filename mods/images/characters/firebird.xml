@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="firebird.png"><SubTexture name="firebird down0000" x="0" y="2172" width="748" height="355" frameX="-603" frameY="-485" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="firebird down0001" x="1658" y="1592" width="698" height="401" frameX="-617" frameY="-493" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="firebird idle0000" x="1936" y="612" width="528" height="600" frameX="-543" frameY="-244" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="firebird idle0001" x="767" y="892" width="504" height="621" frameX="-616" frameY="-232" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="firebird idle0002" x="1936" y="0" width="614" height="612" frameX="-561" frameY="-241" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="firebird idle0003" x="1271" y="892" width="506" height="614" frameX="-554" frameY="-238" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="firebird left0000" x="828" y="1592" width="830" height="576" frameX="-192" frameY="-411" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="firebird left0001" x="0" y="1592" width="828" height="580" frameX="-112" frameY="-274" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="firebird right0000" x="619" y="0" width="632" height="876" frameX="-675" frameY="-86" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="firebird right0001" x="0" y="892" width="767" height="700" frameX="-611" frameY="-128" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="firebird up0000" x="0" y="0" width="619" height="892" frameX="-448" frameY="-111" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="firebird up0001" x="1251" y="0" width="685" height="780" frameX="-420" frameY="-32" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "firebird idle"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "firebird left"
+		},
+		{
+			"offsets": [
+				-150,
+				-200
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singUP",
+			"loop": false,
+			"name": "firebird up"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "firebird right"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "firebird down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/firebird",
+	"position": [
+		-600,
+		-300
+	],
+	"healthicon": "firebird",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-150,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
