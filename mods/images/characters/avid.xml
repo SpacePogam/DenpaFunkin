@@ -1,14 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="avid.png"><SubTexture name="avid down0000" x="890" y="1218" width="725" height="434" frameX="-355" frameY="-331" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="avid down0001" x="0" y="1218" width="890" height="446" frameX="-279" frameY="-253" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="avid idle0000" x="1128" y="0" width="255" height="637" frameX="-725" frameY="-291" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="avid idle0001" x="0" y="0" width="330" height="661" frameX="-654" frameY="-295" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="avid idle0002" x="330" y="0" width="373" height="650" frameX="-618" frameY="-299" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="avid idle0003" x="703" y="0" width="425" height="644" frameX="-557" frameY="-293" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="avid left0000" x="1383" y="823" width="511" height="364" frameX="-651" frameY="-292" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="avid left0001" x="1383" y="453" width="471" height="370" frameX="-567" frameY="-206" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="avid right0000" x="1383" y="0" width="585" height="453" frameX="-678" frameY="-378" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="avid right0001" x="0" y="1664" width="814" height="254" frameX="-680" frameY="-363" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="avid up0000" x="501" y="661" width="529" height="468" frameX="-729" frameY="-155" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="avid up0001" x="0" y="661" width="501" height="557" frameX="-677" frameY="0" frameWidth="1920" frameHeight="1080" />
+<TextureAtlas imagePath="avid.png"><SubTexture name="avid down0000" x="888" y="1216" width="723" height="433" frameX="0" frameY="0" frameWidth="723" frameHeight="433" />
+<SubTexture name="avid down0001" x="0" y="1216" width="888" height="444" frameX="0" frameY="0" frameWidth="888" frameHeight="444" />
+<SubTexture name="avid idle0000" x="1128" y="0" width="254" height="637" frameX="0" frameY="0" frameWidth="254" frameHeight="637" />
+<SubTexture name="avid idle0001" x="0" y="0" width="330" height="660" frameX="0" frameY="0" frameWidth="330" frameHeight="660" />
+<SubTexture name="avid idle0002" x="330" y="0" width="373" height="650" frameX="0" frameY="0" frameWidth="373" frameHeight="650" />
+<SubTexture name="avid idle0003" x="703" y="0" width="425" height="644" frameX="0" frameY="0" frameWidth="425" frameHeight="644" />
+<SubTexture name="avid left0000" x="1382" y="823" width="511" height="364" frameX="0" frameY="0" frameWidth="511" frameHeight="364" />
+<SubTexture name="avid left0001" x="1382" y="453" width="470" height="370" frameX="0" frameY="0" frameWidth="470" frameHeight="370" />
+<SubTexture name="avid right0000" x="1382" y="0" width="584" height="453" frameX="0" frameY="0" frameWidth="584" frameHeight="453" />
+<SubTexture name="avid right0001" x="0" y="1660" width="814" height="253" frameX="0" frameY="0" frameWidth="814" frameHeight="253" />
+<SubTexture name="avid up0000" x="499" y="660" width="526" height="466" frameX="0" frameY="0" frameWidth="526" frameHeight="466" />
+<SubTexture name="avid up0001" x="0" y="660" width="499" height="556" frameX="0" frameY="0" frameWidth="499" frameHeight="556" />
+<SubTexture name="avid idle0004" x="330" y="0" width="373" height="650" frameX="0" frameY="0" frameWidth="373" frameHeight="650" />
+<SubTexture name="avid idle0005" x="0" y="0" width="330" height="660" frameX="0" frameY="0" frameWidth="330" frameHeight="660" />
 </TextureAtlas>

@@ -1,32 +1,10 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-150,
-				-250
-			],
-			"loop": false,
-			"fps": 6,
-			"anim": "idle",
-			"indices": [],
-			"name": "avid idle"
-		},
-		{
 			"loop": false,
 			"offsets": [
-				-150,
-				-250
-			],
-			"anim": "singDOWN",
-			"fps": 12,
-			"name": "avid down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-150,
-				-250
+				-20,
+				-220
 			],
 			"anim": "singLEFT",
 			"fps": 12,
@@ -36,8 +14,30 @@
 		{
 			"loop": false,
 			"offsets": [
-				-150,
-				-200
+				140,
+				-480
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "avid down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-220,
+				-310
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "avid right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				-80
 			],
 			"anim": "singUP",
 			"fps": 12,
@@ -45,22 +45,22 @@
 			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
-			"anim": "singRIGHT",
-			"fps": 12,
-			"name": "avid right",
-			"indices": []
+			"indices": [],
+			"fps": 7,
+			"anim": "idle",
+			"loop": false,
+			"name": "avid idle"
 		}
 	],
-	"no_antialiasing": true,
+	"no_antialiasing": false,
 	"image": "characters/avid",
 	"position": [
-		-750,
-		-300
+		-150,
+		-200
 	],
 	"healthicon": "avid",
 	"flip_x": false,
