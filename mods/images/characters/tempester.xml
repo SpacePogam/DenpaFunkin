@@ -1,17 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="tempester.png">
-<SubTexture name="tempester down0000" x="0" y="860" width="295" height="410" frameX="-15" frameY="-70" frameWidth="320" frameHeight="480" />
-<SubTexture name="tempester down0001" x="295" y="860" width="295" height="395" frameX="-15" frameY="-85" frameWidth="320" frameHeight="480" />
-<SubTexture name="tempester idle0000" x="0" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="tempester idle0001" x="280" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="tempester idle0002" x="860" y="430" width="280" height="420" frameX="-20" frameY="-60" frameWidth="320" frameHeight="480" />
-<SubTexture name="tempester idle0003" x="0" y="0" width="280" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="tempester left0000" x="560" y="0" width="300" height="430" frameX="-10" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="tempester left0001" x="0" y="430" width="305" height="430" frameX="-5" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="tempester right0000" x="305" y="430" width="290" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="tempester right0001" x="860" y="0" width="285" height="430" frameX="-25" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="tempester up0000" x="1145" y="0" width="280" height="420" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="tempester up0001" x="1145" y="420" width="280" height="420" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="tempester sright0000" x="305" y="430" width="290" height="430" frameX="-20" frameY="-50" frameWidth="320" frameHeight="480" />
-<SubTexture name="tempester sright0001" x="860" y="0" width="285" height="430" frameX="-25" frameY="-50" frameWidth="320" frameHeight="480" />
+<TextureAtlas imagePath="tempester.png"><SubTexture name="tempester down0000" x="402" y="870" width="399" height="407" frameX="0" frameY="0" frameWidth="399" frameHeight="407" />
+<SubTexture name="tempester down0001" x="0" y="870" width="402" height="408" frameX="0" frameY="0" frameWidth="402" frameHeight="408" />
+<SubTexture name="tempester idle0000" x="0" y="0" width="307" height="438" frameX="0" frameY="0" frameWidth="307" frameHeight="438" />
+<SubTexture name="tempester idle0001" x="307" y="0" width="309" height="435" frameX="0" frameY="0" frameWidth="310" frameHeight="435" />
+<SubTexture name="tempester idle0002" x="339" y="438" width="308" height="427" frameX="0" frameY="0" frameWidth="308" frameHeight="427" />
+<SubTexture name="tempester idle0003" x="307" y="0" width="309" height="435" frameX="0" frameY="0" frameWidth="310" frameHeight="435" />
+<SubTexture name="tempester idle0004" x="0" y="0" width="307" height="438" frameX="0" frameY="0" frameWidth="307" frameHeight="438" />
+<SubTexture name="tempester left0000" x="801" y="870" width="397" height="400" frameX="0" frameY="0" frameWidth="397" frameHeight="400" />
+<SubTexture name="tempester left0001" x="947" y="0" width="360" height="409" frameX="0" frameY="0" frameWidth="360" frameHeight="409" />
+<SubTexture name="tempester right0000" x="1307" y="400" width="408" height="399" frameX="0" frameY="0" frameWidth="408" frameHeight="399" />
+<SubTexture name="tempester right0001" x="1307" y="0" width="430" height="400" frameX="0" frameY="0" frameWidth="430" frameHeight="400" />
+<SubTexture name="tempester up0000" x="0" y="438" width="339" height="432" frameX="0" frameY="0" frameWidth="339" frameHeight="432" />
+<SubTexture name="tempester up0001" x="616" y="0" width="331" height="433" frameX="0" frameY="0" frameWidth="331" frameHeight="433" />
 </TextureAtlas>
