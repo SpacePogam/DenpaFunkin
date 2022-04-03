@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dmist.png"><SubTexture name="dmist down0000" x="0" y="533" width="466" height="493" frameX="-474" frameY="-495" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist down0001" x="835" y="0" width="515" height="495" frameX="-414" frameY="-554" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist down0002" x="1350" y="470" width="363" height="425" frameX="-525" frameY="-648" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist idle0000" x="875" y="1438" width="444" height="330" frameX="-743" frameY="-402" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist idle0001" x="1319" y="1438" width="450" height="329" frameX="-798" frameY="-429" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist idle0002" x="1228" y="1026" width="437" height="351" frameX="-805" frameY="-472" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist idle0003" x="0" y="1438" width="443" height="350" frameX="-775" frameY="-507" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist idle0004" x="443" y="1438" width="432" height="340" frameX="-724" frameY="-504" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist idle0005" x="1573" y="1788" width="453" height="309" frameX="-672" frameY="-465" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist idle0006" x="1799" y="0" width="440" height="325" frameX="-676" frameY="-405" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist idle0007" x="1109" y="1788" width="464" height="310" frameX="-714" frameY="-339" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist left0000" x="2239" y="0" width="601" height="273" frameX="-61" frameY="-279" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist left0001" x="0" y="1026" width="595" height="412" frameX="-78" frameY="-190" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist left0002" x="466" y="533" width="561" height="474" frameX="-264" frameY="-83" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist right0000" x="595" y="1026" width="633" height="354" frameX="-1047" frameY="-289" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist right0001" x="0" y="1788" width="582" height="320" frameX="-1133" frameY="-239" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist right0002" x="582" y="1788" width="527" height="317" frameX="-1002" frameY="-250" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist up0000" x="380" y="0" width="455" height="501" frameX="-517" frameY="-37" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist up0001" x="1350" y="0" width="449" height="470" frameX="-475" frameY="-13" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="dmist up0002" x="0" y="0" width="380" height="533" frameX="-405" frameY="-9" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 4,
+			"anim": "idle",
+			"loop": true,
+			"name": "dmist idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 6,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "dmist left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 6,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "dmist down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 6,
+			"anim": "singUP",
+			"loop": true,
+			"name": "dmist up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 6,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "dmist right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dmist",
+	"position": [
+		-650,
+		-200
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-150,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
