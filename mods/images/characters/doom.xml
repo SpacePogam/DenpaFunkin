@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="doom.png"><SubTexture name="doom down0000" x="442" y="1423" width="427" height="412" frameX="-718" frameY="-565" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom down0001" x="2141" y="0" width="427" height="375" frameX="-718" frameY="-602" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom down0002" x="2141" y="375" width="416" height="369" frameX="-729" frameY="-608" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom idle0000" x="1008" y="970" width="524" height="452" frameX="-621" frameY="-531" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom idle0001" x="0" y="970" width="532" height="453" frameX="-613" frameY="-527" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom idle0002" x="1594" y="436" width="544" height="429" frameX="-601" frameY="-548" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom idle0003" x="1594" y="0" width="547" height="436" frameX="-598" frameY="-549" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom idle0004" x="0" y="0" width="535" height="501" frameX="-610" frameY="-484" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom idle0005" x="535" y="0" width="508" height="489" frameX="-637" frameY="-496" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom left0000" x="1043" y="0" width="551" height="459" frameX="-576" frameY="-487" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom left0001" x="1319" y="1423" width="573" height="389" frameX="-530" frameY="-568" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom left0002" x="0" y="501" width="558" height="469" frameX="-571" frameY="-479" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom right0000" x="869" y="1423" width="450" height="411" frameX="-706" frameY="-576" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom right0001" x="1594" y="865" width="423" height="428" frameX="-743" frameY="-553" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom right0002" x="0" y="1423" width="442" height="417" frameX="-716" frameY="-567" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom up0000" x="558" y="501" width="479" height="465" frameX="-659" frameY="-498" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom up0001" x="532" y="970" width="476" height="453" frameX="-662" frameY="-503" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="doom up0002" x="1043" y="459" width="466" height="456" frameX="-671" frameY="-519" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
