@@ -3,14 +3,18 @@
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "digitoll",
-	"weekBefore": "week 1",
 	"freeplayColor": [
 		99,
 		155,
 		255
 	],
+	"weekBefore": "week 1",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
 			"Moderation",
@@ -32,18 +36,14 @@
 		],
 		[
 			"Endless",
-			"dad",
+			"doom",
 			[
-				146,
-				113,
-				253
+				15,
+				15,
+				15
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"hideStoryMode": false,
 	"weekName": "Bonus"
 }
