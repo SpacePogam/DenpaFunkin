@@ -1,68 +1,68 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 16,
 			"anim": "singLEFT",
-			"fps": 16,
-			"name": "doom left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singDOWN",
-			"fps": 16,
-			"name": "doom down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singUP",
-			"fps": 16,
-			"name": "doom up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singRIGHT",
-			"fps": 16,
-			"name": "doom right",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 12,
-			"anim": "idle",
 			"indices": [],
-			"name": "doom idle"
+			"name": "doom left"
+		},
+		{
+			"offsets": [
+				0,
+				-25
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "doom down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "doom up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "doom right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "doom idle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/doom",
 	"position": [
-		-750,
-		-200
+		-800,
+		-150
 	],
-	"healthicon": "face",
+	"healthicon": "doom",
 	"flip_x": false,
 	"healthbar_colors": [
 		161,
@@ -71,7 +71,7 @@
 	],
 	"camera_position": [
 		0,
-		200
+		125
 	],
 	"sing_duration": 6.1,
 	"scale": 1

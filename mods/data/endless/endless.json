@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "endless_bf",
+		"player1": "norman",
 		"notes": [
 			{
 				"sectionNotes": [
@@ -2214,20 +2214,6 @@
 						85161,
 						0,
 						290
-					],
-					[
-						85935.4838709678,
-						-1,
-						"Add Camera Zoom",
-						"0.045",
-						"0.09"
-					],
-					[
-						86322.5806451614,
-						-1,
-						"Add Camera Zoom",
-						"0.045",
-						"0.09"
 					]
 				],
 				"altAnim": false,
@@ -2273,20 +2259,6 @@
 						88064.5161290324,
 						6,
 						0
-					],
-					[
-						86709.6774193549,
-						-1,
-						"Add Camera Zoom",
-						"0.045",
-						"0.09"
-					],
-					[
-						87096.7741935485,
-						-1,
-						"Add Camera Zoom",
-						"0.045",
-						"0.09"
 					]
 				],
 				"altAnim": false,
@@ -9497,14 +9469,53 @@
 			},
 			{
 				"lengthInSteps": 16,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
+				"altAnim": false,
 				"bpm": 155,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 155,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 155,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 155
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 155
+			},
+			{
+				"gfSection": false,
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
@@ -9514,6 +9525,17 @@
 				"mustHitSection": true
 			},
 			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 155,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
@@ -9523,12 +9545,65 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "Majin Sonic",
-		"player3": "nogf",
+		"player2": "doom",
+		"gfVersion": "crystal",
+		"events": [
+			[
+				85935.4838709678,
+				[
+					[
+						"imageflash",
+						"Death-H",
+						"1.4"
+					]
+				]
+			],
+			[
+				86322.5806451614,
+				[
+					[
+						"Add Camera Zoom",
+						"0.045",
+						"0.09"
+					]
+				]
+			],
+			[
+				86709.6774193549,
+				[
+					[
+						"Add Camera Zoom",
+						"0.045",
+						"0.09"
+					]
+				]
+			],
+			[
+				87000.0000000001,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				87096.7741935485,
+				[
+					[
+						"Add Camera Zoom",
+						"0.045",
+						"0.09"
+					]
+				]
+			]
+		],
+		"player3": null,
 		"song": "endless",
-		"stage": "Endless Stage",
-		"validScore": true,
 		"needsVoices": true,
+		"validScore": true,
+		"stage": "digitollm",
 		"noteStyle": "majinNOTES",
 		"bpm": 155,
 		"speed": 3
