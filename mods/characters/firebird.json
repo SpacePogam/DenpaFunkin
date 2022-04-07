@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
-			"indices": [],
-			"fps": 12,
 			"anim": "idle",
-			"loop": false,
-			"name": "firebird idle"
+			"fps": 12,
+			"name": "firebird idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
-			"indices": [],
-			"fps": 20,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "firebird left"
+			"fps": 20,
+			"name": "firebird left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-150,
 				-200
 			],
-			"indices": [],
-			"fps": 20,
 			"anim": "singUP",
-			"loop": false,
-			"name": "firebird up"
+			"fps": 20,
+			"name": "firebird up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
-			"indices": [],
-			"fps": 20,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "firebird right"
+			"fps": 20,
+			"name": "firebird right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
-			"indices": [],
-			"fps": 20,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "firebird down"
+			"fps": 20,
+			"name": "firebird down",
+			"indices": []
 		}
 	],
 	"no_antialiasing": true,
@@ -65,9 +65,9 @@
 	"healthicon": "firebird",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		255,
-		255
+		169,
+		24,
+		15
 	],
 	"camera_position": [
 		-150,
