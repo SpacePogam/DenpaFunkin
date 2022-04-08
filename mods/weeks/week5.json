@@ -1,9 +1,9 @@
 {
 	"storyName": "THE WIND TOWER",
-	"hideFreeplay": true,
+	"hideFreeplay": false,
 	"weekBackground": "digitoll",
 	"weekBefore": "week 5",
-	"startUnlocked": false,
+	"startUnlocked": true,
 	"weekCharacters": [
 		"tempester",
 		"norman",

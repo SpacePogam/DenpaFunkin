@@ -1,9 +1,9 @@
 {
 	"storyName": "THE DARK RUINS",
-	"hideFreeplay": true,
+	"hideFreeplay": false,
 	"weekBackground": "digitoll",
 	"weekBefore": "week 2",
-	"startUnlocked": false,
+	"startUnlocked": true,
 	"weekCharacters": [
 		"earthdragon",
 		"norman",

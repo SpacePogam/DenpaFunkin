@@ -1,9 +1,9 @@
 {
 	"storyName": "THE JEWEL MINES",
-	"hideFreeplay": true,
+	"hideFreeplay": false,
 	"weekBackground": "digitoll",
 	"weekBefore": "week 4",
-	"startUnlocked": false,
+	"startUnlocked": true,
 	"weekCharacters": [
 		"freezebird",
 		"norman",

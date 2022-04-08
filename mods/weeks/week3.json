@@ -1,9 +1,9 @@
 {
 	"storyName": "THE WATER TEMPLE",
-	"hideFreeplay": true,
+	"hideFreeplay": false,
 	"weekBackground": "digitoll",
 	"weekBefore": "week 3",
-	"startUnlocked": false,
+	"startUnlocked": true,
 	"weekCharacters": [
 		"turtle",
 		"norman",

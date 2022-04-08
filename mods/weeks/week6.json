@@ -1,9 +1,9 @@
 {
 	"storyName": "THE SHOCK TEMPLE",
-	"hideFreeplay": true,
+	"hideFreeplay": false,
 	"weekBackground": "digitoll",
 	"weekBefore": "week 6",
-	"startUnlocked": false,
+	"startUnlocked": true,
 	"weekCharacters": [
 		"thunder",
 		"norman",
