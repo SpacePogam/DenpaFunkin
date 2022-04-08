@@ -3,18 +3,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-150,
-				-250
-			],
-			"anim": "idle",
-			"fps": 12,
-			"name": "firebird idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-150,
+				90,
 				-250
 			],
 			"anim": "singLEFT",
@@ -25,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-150,
-				-200
+				18,
+				-181
 			],
 			"anim": "singUP",
 			"fps": 20,
@@ -36,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-150,
-				-250
+				-230,
+				-130
 			],
 			"anim": "singRIGHT",
 			"fps": 20,
@@ -48,19 +37,30 @@
 			"loop": false,
 			"offsets": [
 				-150,
-				-250
+				-350
 			],
 			"anim": "singDOWN",
 			"fps": 20,
 			"name": "firebird down",
 			"indices": []
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": true,
+			"name": "firebird idle"
 		}
 	],
 	"no_antialiasing": true,
 	"image": "characters/firebird",
 	"position": [
-		-600,
-		-300
+		-200,
+		-450
 	],
 	"healthicon": "firebird",
 	"flip_x": false,
@@ -70,8 +70,8 @@
 		15
 	],
 	"camera_position": [
-		-150,
-		150
+		20,
+		320
 	],
 	"sing_duration": 6.1,
 	"scale": 1
