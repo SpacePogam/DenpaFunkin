@@ -1,69 +1,69 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-150,
-				-250
-			],
 			"loop": false,
-			"fps": 20,
+			"offsets": [
+				0,
+				0
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "BOYFRIEND left"
+			"fps": 20,
+			"name": "norman left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-150,
-				-250
-			],
 			"loop": false,
-			"fps": 20,
+			"offsets": [
+				0,
+				0
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "BOYFRIEND down"
+			"fps": 20,
+			"name": "norman down",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-150,
-				-200
-			],
 			"loop": false,
-			"fps": 20,
+			"offsets": [
+				0,
+				0
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "BOYFRIEND up"
-		},
-		{
-			"offsets": [
-				-150,
-				-250
-			],
-			"loop": false,
 			"fps": 20,
+			"name": "norman up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BOYFRIEND right"
+			"fps": 20,
+			"name": "norman right",
+			"indices": []
 		},
 		{
 			"offsets": [
-				-150,
-				-250
+				0,
+				0
 			],
-			"loop": false,
-			"fps": 8,
-			"anim": "idle",
 			"indices": [],
-			"name": "BOYFRIEND idle"
+			"fps": 16,
+			"anim": "idle",
+			"loop": false,
+			"name": "norman idle"
 		}
 	],
-	"no_antialiasing": true,
+	"no_antialiasing": false,
 	"image": "characters/norman",
 	"position": [
-		0,
-		0
+		-700,
+		-260
 	],
 	"healthicon": "norman",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		255,
 		255,
@@ -74,5 +74,5 @@
 		230
 	],
 	"sing_duration": 6.1,
-	"scale": 1.2
+	"scale": 1
 }
