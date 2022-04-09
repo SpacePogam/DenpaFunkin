@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-20,
-				-220
-			],
 			"loop": false,
-			"fps": 20,
+			"offsets": [
+				-150,
+				-90
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "tempester up"
+			"fps": 20,
+			"name": "tempester up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-150,
+				-280,
 				-250
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "tempester right"
-		},
-		{
-			"offsets": [
-				-150,
-				-250
-			],
-			"loop": false,
 			"fps": 20,
-			"anim": "shootRIGHT",
-			"indices": [],
-			"name": "tempester sright"
+			"name": "tempester right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
-			"loop": false,
-			"fps": 13,
-			"anim": "idle",
-			"indices": [],
-			"name": "tempester idle"
+			"anim": "shootRIGHT",
+			"fps": 20,
+			"name": "tempester sright",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				30,
 				-250
 			],
-			"indices": [],
-			"fps": 20,
 			"anim": "singLEFT",
+			"fps": 20,
+			"name": "tempester left",
+			"indices": []
+		},
+		{
 			"loop": false,
-			"name": "tempester left"
+			"offsets": [
+				-140,
+				-310
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "tempester down",
+			"indices": []
 		},
 		{
 			"offsets": [
-				-80,
-				-310
+				650,
+				130
 			],
 			"indices": [],
-			"fps": 20,
-			"anim": "singDOWN",
-			"loop": false,
-			"name": "tempester down"
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "tempester idle"
 		}
 	],
 	"no_antialiasing": false,

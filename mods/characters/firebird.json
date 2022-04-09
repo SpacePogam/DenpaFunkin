@@ -45,18 +45,18 @@
 			"indices": []
 		},
 		{
-			"offsets": [
-				-150,
-				-250
-			],
-			"indices": [],
-			"fps": 15,
-			"anim": "idle",
 			"loop": true,
-			"name": "firebird idle"
+			"offsets": [
+				540,
+				-120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "firebird idle",
+			"indices": []
 		}
 	],
-	"no_antialiasing": true,
+	"no_antialiasing": false,
 	"image": "characters/firebird",
 	"position": [
 		-200,
