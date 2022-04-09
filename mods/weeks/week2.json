@@ -11,30 +11,30 @@
 	],
 	"songs": [
 		[
-			"TBD",
-			"face",
+			"Oink",
+			"oinkrabbit",
 			[
-				0,
-				0,
-				24
+				253,
+				158,
+				180
 			]
 		],
 		[
-			"RBD",
-			"face",
+			"Ritual",
+			"tsquelch",
 			[
-				0,
-				100,
-				255
+				67,
+				58,
+				57
 			]
 		],
 		[
-			"TBD",
+			"Gaia",
 			"earthdragon",
 			[
-				0,
-				0,
-				255
+				148,
+				86,
+				11
 			]
 		]
 	],
