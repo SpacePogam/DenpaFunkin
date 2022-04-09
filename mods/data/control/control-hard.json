@@ -4629,10 +4629,10 @@
 		"player2": "firebird",
 		"player3": null,
 		"song": "Control",
-		"stage": "volcano",
+		"stage": "volcano-crossfade",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 165,
-		"speed": 3
+		"speed": 4
 	}
 }
