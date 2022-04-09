@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 20,
 			"anim": "singLEFT",
-			"fps": 20,
-			"name": "norman left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singDOWN",
-			"fps": 20,
-			"name": "norman down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singUP",
-			"fps": 20,
-			"name": "norman up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singRIGHT",
-			"fps": 20,
-			"name": "norman right",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
 			"indices": [],
-			"fps": 16,
-			"anim": "idle",
+			"name": "norman left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
 			"loop": false,
-			"name": "norman idle"
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "norman down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "norman up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "norman right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "norman idle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/norman",
 	"position": [
 		-700,
-		-260
+		-100
 	],
 	"healthicon": "norman",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		255
 	],
 	"camera_position": [
-		0,
+		-200,
 		230
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 0.7
 }
