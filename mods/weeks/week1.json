@@ -2,7 +2,7 @@
 	"storyName": "THE VOLCANO",
 	"hideFreeplay": false,
 	"weekBackground": "digitoll",
-	"weekBefore": "week 1",
+	"weekBefore": "tutorial2",
 	"startUnlocked": true,
 	"weekCharacters": [
 		"firebird",

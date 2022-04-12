@@ -1,6 +1,7 @@
 {
 	"storyName": "ALL AROUND YOU",
-	"hideFreeplay": false,
+	"difficulties": "Normal",
+	"hideFreeplay": true,
 	"weekBackground": "digitoll",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
@@ -14,39 +15,12 @@
 			"Radio Waves",
 			"norman",
 			[
-				255,
-				255,
-				255
-			]
-		],
-		[
-			"Rick Battle",
-			"rick",
-			[
 				248,
 				22,
 				22
 			]
-		],
-		[
-			"MARY",
-			"mary",
-			[
-				252,
-				253,
-				48
-			]
-		],
-		[
-			"Kids",
-			"jasber",
-			[
-				252,
-				173,
-				243
-			]
 		]
 	],
 	"hideStoryMode": false,
-	"weekName": "Prologue"
+	"weekName": "Tutorial"
 }

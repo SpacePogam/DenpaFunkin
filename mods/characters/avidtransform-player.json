@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-110,
+				-220
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "avidtransform left"
+		},
+		{
+			"offsets": [
+				-20,
+				-470
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "avidtransform down"
+		},
+		{
+			"offsets": [
+				160,
+				-250
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "avidtransform right"
+		},
+		{
+			"offsets": [
+				42,
+				-29
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "avidtransform up"
+		},
+		{
+			"offsets": [
+				-149,
+				-250
+			],
+			"indices": [],
+			"fps": 7,
+			"anim": "idle",
+			"loop": false,
+			"name": "avidtransform idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/avidtransform",
+	"position": [
+		-90,
+		-150
+	],
+	"healthicon": "avid",
+	"flip_x": false,
+	"healthbar_colors": [
+		39,
+		81,
+		203
+	],
+	"camera_position": [
+		0,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
