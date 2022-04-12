@@ -19,10 +19,31 @@ function onCreate()
     setProperty('fader.alpha', 0)
     setObjectCamera('fader', 'other')
 
-  	makeLuaSprite('1', 'digitollm', -600, -300);
+  	makeLuaSprite('1', 'stageback', -600, -300);
   	setScrollFactor('1', 0.9, 0.9);
 
+  	makeLuaSprite('2', 'stagefront', -650, 600);
+  	setScrollFactor('2', 0.9, 0.9);
+  	scaleObject('2', 1.1, 1.1);
+
+		makeLuaSprite('3', 'stage_light', -125, -100);
+		setScrollFactor('3', 0.9, 0.9);
+		scaleObject('3', 1.1, 1.1);
+
+		makeLuaSprite('4', 'stage_light', 1225, -100);
+		setScrollFactor('4', 0.9, 0.9);
+		scaleObject('4', 1.1, 1.1);
+		setProperty('4.flipX', true); --mirror sprite horizontally
+
+		makeLuaSprite('5', 'stagecurtains', -500, -300);
+		setScrollFactor('5', 1.3, 1.3);
+		scaleObject('5', 0.9, 0.9);
+
   	addLuaSprite('1', false);
+  	addLuaSprite('2', false);
+  	addLuaSprite('3', false);
+  	addLuaSprite('4', false);
+  	addLuaSprite('5', false);
     makeLuaText('text1', characterDisplays[page], 600, 15, 350)
     setTextSize('text1', 50);--Sets text size
     setTextWidth('text1', 600);--Sets text width
@@ -121,6 +142,10 @@ function onTimerCompleted(tag)
       setProperty('gf.visible', true)
     end
     removeLuaSprite('1', true)
+    removeLuaSprite('2', true)
+    removeLuaSprite('3', true)
+    removeLuaSprite('4', true)
+    removeLuaSprite('5', true)
     runTimer('fadeout', 2.5)
   end
   if tag == 'fadedelay' then
