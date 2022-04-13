@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-380
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "rick idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-380
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rick right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-385
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rick down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-380
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rick left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-320
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "rick up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-150,
+				-380
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "rick leftl"
+		},
+		{
+			"offsets": [
+				-150,
+				-380
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "rick rightl"
+		},
+		{
+			"offsets": [
+				-150,
+				-320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "rick upl"
+		},
+		{
+			"offsets": [
+				-150,
+				-385
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "rick downl"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/rick",
+	"position": [
+		10,
+		50
+	],
+	"healthicon": "rick",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		41,
+		35
+	],
+	"camera_position": [
+		90,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 7
+}

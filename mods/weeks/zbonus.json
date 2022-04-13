@@ -3,18 +3,14 @@
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "digitoll",
+	"weekBefore": "week 1",
 	"freeplayColor": [
 		99,
 		155,
 		255
 	],
-	"weekBefore": "week 1",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"hideStoryMode": true,
 	"songs": [
 		[
 			"Moderation",
@@ -42,8 +38,84 @@
 				15,
 				15
 			]
+		],
+		[
+			"Accelerant",
+			"thunder",
+			[
+				233,
+				226,
+				44
+			]
+		],
+		[
+			"Ballistic",
+			"tempester",
+			[
+				200,
+				207,
+				126
+			]
+		],
+		[
+			"Dad Battle",
+			"rick",
+			[
+				248,
+				22,
+				22
+			]
+		],
+		[
+			"Milf",
+			"mary",
+			[
+				252,
+				253,
+				48
+			]
+		],
+		[
+			"Monochrome",
+			"avid",
+			[
+				24,
+				24,
+				24
+			]
+		],
+		[
+			"Spookeez",
+			"jasber",
+			[
+				252,
+				173,
+				243
+			]
+		],
+		[
+			"Thorns",
+			"avid",
+			[
+				24,
+				24,
+				24
+			]
+		],
+		[
+			"Tormentor",
+			"firebird",
+			[
+				255,
+				0,
+				0
+			]
 		]
 	],
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"weekName": "Bonus"
 }

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-153,
+				-250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mary right"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mary down"
+		},
+		{
+			"offsets": [
+				-150,
+				-200
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mary up"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mary left"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "mary idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mary",
+	"position": [
+		50,
+		150
+	],
+	"healthicon": "mary",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		253,
+		48
+	],
+	"camera_position": [
+		100,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 7
+}

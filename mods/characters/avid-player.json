@@ -9,7 +9,7 @@
 			"fps": 12,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "avid left"
+			"name": "avid right"
 		},
 		{
 			"offsets": [
@@ -31,7 +31,7 @@
 			"fps": 12,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "avid right"
+			"name": "avid left"
 		},
 		{
 			"offsets": [

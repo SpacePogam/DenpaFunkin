@@ -9,7 +9,7 @@
 			"fps": 12,
 			"anim": "singLEFT",
 			"loop": false,
-			"name": "avidtransform left"
+			"name": "avidtransform right"
 		},
 		{
 			"offsets": [
@@ -31,7 +31,7 @@
 			"fps": 12,
 			"anim": "singRIGHT",
 			"loop": false,
-			"name": "avidtransform right"
+			"name": "avidtransform left"
 		},
 		{
 			"offsets": [
