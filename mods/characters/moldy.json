@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-2,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "moldy right",
-			"indices": []
+			"indices": [],
+			"name": "moldy left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "moldy down",
-			"indices": []
+			"indices": [],
+			"name": "moldy down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "moldy idle",
-			"indices": []
+			"indices": [],
+			"name": "moldy idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "moldy left",
-			"indices": []
+			"indices": [],
+			"name": "moldy right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "moldy up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "moldy up"
 		}
 	],
 	"no_antialiasing": true,
@@ -62,16 +62,16 @@
 		200,
 		300
 	],
-	"healthicon": "face",
+	"healthicon": "moldy",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		129,
+		171,
+		168
 	],
 	"camera_position": [
-		0,
-		0
+		200,
+		-90
 	],
 	"sing_duration": 6.1,
 	"scale": 10

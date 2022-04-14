@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "umbra NOTE DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "umbra NOTE UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "umbra NOTE RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "umbra idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "umbra NOTE LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "umbra idle alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/umbra",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "umbra",
+	"flip_x": true,
+	"healthbar_colors": [
+		76,
+		76,
+		76
+	],
+	"camera_position": [
+		40,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
