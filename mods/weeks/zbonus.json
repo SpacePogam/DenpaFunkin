@@ -3,14 +3,18 @@
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "digitoll",
-	"weekBefore": "week 1",
 	"freeplayColor": [
 		99,
 		155,
 		255
 	],
+	"weekBefore": "week 1",
 	"startUnlocked": true,
-	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
 			"Moderation",
@@ -85,21 +89,21 @@
 			]
 		],
 		[
-			"Monochrome",
-			"avid",
-			[
-				24,
-				24,
-				24
-			]
-		],
-		[
 			"Spookeez",
 			"jasber",
 			[
 				252,
 				173,
 				243
+			]
+		],
+		[
+			"Monochrome",
+			"avid",
+			[
+				24,
+				24,
+				24
 			]
 		],
 		[
@@ -121,10 +125,6 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"hideStoryMode": true,
 	"weekName": "Bonus"
 }
