@@ -1,12 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="chuckles.png"><SubTexture name="chuckles left0000" x="0" y="0" width="167" height="161" frameX="-7" frameY="-9" frameWidth="180" frameHeight="180" />
-<SubTexture name="chuckles left0001" x="167" y="0" width="167" height="145" frameX="-7" frameY="-26" frameWidth="180" frameHeight="180" />
-<SubTexture name="chuckles left0002" x="167" y="161" width="167" height="130" frameX="-7" frameY="-42" frameWidth="180" frameHeight="180" />
-<SubTexture name="chuckles left0003" x="0" y="161" width="167" height="143" frameX="-7" frameY="-28" frameWidth="180" frameHeight="180" />
-<SubTexture name="chuckles left0004" x="0" y="0" width="167" height="161" frameX="-7" frameY="-9" frameWidth="180" frameHeight="180" />
-<SubTexture name="chuckles right0000" x="0" y="0" width="167" height="161" frameX="-7" frameY="-9" frameWidth="180" frameHeight="180" />
-<SubTexture name="chuckles right0001" x="167" y="0" width="167" height="145" frameX="-7" frameY="-26" frameWidth="180" frameHeight="180" />
-<SubTexture name="chuckles right0002" x="167" y="161" width="167" height="130" frameX="-7" frameY="-42" frameWidth="180" frameHeight="180" />
-<SubTexture name="chuckles right0003" x="0" y="161" width="167" height="143" frameX="-7" frameY="-28" frameWidth="180" frameHeight="180" />
-<SubTexture name="chuckles right0004" x="0" y="0" width="167" height="161" frameX="-7" frameY="-9" frameWidth="180" frameHeight="180" />
+<TextureAtlas imagePath="chuckles.png"><SubTexture name="chuckles down0000" x="152" y="179" width="166" height="159" frameX="-8" frameY="-11" frameWidth="180" frameHeight="180" />
+<SubTexture name="chuckles left0000" x="0" y="179" width="152" height="161" frameX="-7" frameY="-9" frameWidth="180" frameHeight="180" />
+<SubTexture name="chuckles right0000" x="166" y="0" width="173" height="162" frameX="-1" frameY="-8" frameWidth="180" frameHeight="180" />
+<SubTexture name="chuckles up0000" x="0" y="0" width="166" height="179" frameX="-7" frameY="0" frameWidth="180" frameHeight="180" />
+<SubTexture name="chuckles idle0000" x="339" y="0" width="167" height="161" frameX="-7" frameY="-9" frameWidth="180" frameHeight="180" />
+<SubTexture name="chuckles idle0001" x="318" y="179" width="167" height="145" frameX="-7" frameY="-26" frameWidth="180" frameHeight="180" />
+<SubTexture name="chuckles idle0002" x="167" y="340" width="167" height="130" frameX="-7" frameY="-42" frameWidth="180" frameHeight="180" />
+<SubTexture name="chuckles idle0003" x="0" y="340" width="167" height="143" frameX="-7" frameY="-28" frameWidth="180" frameHeight="180" />
 </TextureAtlas>
