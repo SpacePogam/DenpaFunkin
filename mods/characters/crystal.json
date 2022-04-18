@@ -1,10 +1,14 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				520,
 				181
 			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "gfDance",
 			"indices": [
 				30,
 				0,
@@ -22,17 +26,17 @@
 				12,
 				13,
 				14
-			],
-			"fps": 24,
-			"anim": "danceLeft",
-			"loop": false,
-			"name": "gfDance"
+			]
 		},
 		{
+			"loop": false,
 			"offsets": [
 				520,
 				181
 			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "gfDance",
 			"indices": [
 				15,
 				16,
@@ -49,50 +53,46 @@
 				27,
 				1,
 				2
-			],
-			"fps": 24,
-			"anim": "danceRight",
-			"loop": false,
-			"name": "gfDance"
+			]
 		},
 		{
-			"offsets": [
-				520,
-				181
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "scared",
 			"loop": true,
-			"name": "fear"
-		},
-		{
 			"offsets": [
 				520,
 				181
 			],
-			"indices": [],
+			"anim": "scared",
 			"fps": 24,
+			"name": "fear",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				520,
+				181
+			],
 			"anim": "sad",
-			"loop": false,
-			"name": "sad"
+			"fps": 24,
+			"name": "sad",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				520,
 				181
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "cheer",
-			"loop": false,
-			"name": "hey"
+			"fps": 24,
+			"name": "hey",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Crystal",
 	"position": [
-		0,
+		-140,
 		0
 	],
 	"healthicon": "",
@@ -103,7 +103,7 @@
 		161
 	],
 	"camera_position": [
-		0,
+		-140,
 		0
 	],
 	"sing_duration": 4,
