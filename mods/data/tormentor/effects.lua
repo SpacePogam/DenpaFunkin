@@ -6,7 +6,6 @@ function opponentNoteHit(id, direction, noteType, isSustainNote)
 cameraShake(game, 0.005, 0.2)
 characterPlayAnim('gf', 'scared', true)
 doTweenZoom('camerazoom','camGame',0.8,0.26,'quadInOut')
-setProperty('health', getProperty('health') - 2 * ((getProperty('health')/22))/6)
 end
 function goodNoteHit(id, direction, noteType, isSustainNote)
 doTweenZoom('camerazoom','camGame',1.3,0.6,'quadInOut')
