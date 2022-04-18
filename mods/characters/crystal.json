@@ -2,23 +2,9 @@
 	"animations": [
 		{
 			"offsets": [
-				0,
-				0
+				520,
+				181
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "GF IDLE"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "danceLeft",
 			"indices": [
 				30,
 				0,
@@ -37,16 +23,16 @@
 				13,
 				14
 			],
-			"name": "crystal idle"
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "gfDance"
 		},
 		{
 			"offsets": [
-				0,
-				0
+				520,
+				181
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "danceRight",
 			"indices": [
 				15,
 				16,
@@ -61,29 +47,65 @@
 				25,
 				26,
 				27,
-				28,
-				29
+				1,
+				2
 			],
-			"name": "crystal idle"
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "gfDance"
+		},
+		{
+			"offsets": [
+				520,
+				181
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scared",
+			"loop": true,
+			"name": "fear"
+		},
+		{
+			"offsets": [
+				520,
+				181
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "sad",
+			"loop": false,
+			"name": "sad"
+		},
+		{
+			"offsets": [
+				520,
+				181
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "cheer",
+			"loop": false,
+			"name": "hey"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/crystal",
+	"no_antialiasing": false,
+	"image": "characters/Crystal",
 	"position": [
-		50,
-		150
+		0,
+		0
 	],
-	"healthicon": "gf",
+	"healthicon": "",
 	"flip_x": false,
 	"healthbar_colors": [
-		165,
-		0,
-		77
+		161,
+		161,
+		161
 	],
 	"camera_position": [
-		-20,
-		80
+		0,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 5.99999999999999
+	"scale": 0.6
 }
