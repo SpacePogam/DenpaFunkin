@@ -1,20 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="norman.png"><SubTexture name="norman down0000" x="1122" y="1187" width="281" height="523" frameX="-715" frameY="-442" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman down0001" x="576" y="1187" width="280" height="526" frameX="-714" frameY="-448" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman down0002" x="1672" y="1187" width="269" height="508" frameX="-713" frameY="-464" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman idle0000" x="604" y="0" width="301" height="591" frameX="-685" frameY="-429" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman idle0001" x="302" y="0" width="302" height="594" frameX="-683" frameY="-426" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman idle0002" x="0" y="1187" width="302" height="582" frameX="-683" frameY="-432" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman idle0003" x="0" y="0" width="302" height="597" frameX="-683" frameY="-430" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman idle0004" x="1645" y="0" width="302" height="585" frameX="-684" frameY="-432" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman idle0005" x="1645" y="585" width="301" height="584" frameX="-685" frameY="-430" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman left0000" x="1223" y="589" width="380" height="586" frameX="-639" frameY="-430" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman left0001" x="1223" y="0" width="422" height="589" frameX="-631" frameY="-430" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman left0002" x="0" y="597" width="353" height="590" frameX="-658" frameY="-429" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman right0000" x="353" y="597" width="311" height="590" frameX="-642" frameY="-432" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman right0001" x="905" y="0" width="318" height="591" frameX="-645" frameY="-426" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman right0002" x="664" y="597" width="353" height="590" frameX="-641" frameY="-429" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman up0000" x="856" y="1187" width="266" height="525" frameX="-688" frameY="-417" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman up0001" x="1403" y="1187" width="269" height="520" frameX="-681" frameY="-394" frameWidth="1920" frameHeight="1080" />
-<SubTexture name="norman up0002" x="302" y="1187" width="274" height="536" frameX="-681" frameY="-379" frameWidth="1920" frameHeight="1080" />
+<TextureAtlas imagePath="norman.png"><SubTexture name="norman idle0000" x="585" y="951" width="269" height="455" frameX="-757" frameY="-493" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman idle0001" x="1071" y="463" width="275" height="462" frameX="-756" frameY="-487" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman idle0002" x="0" y="487" width="281" height="464" frameX="-763" frameY="-484" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman idle0003" x="572" y="487" width="295" height="463" frameX="-798" frameY="-486" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman idle0004" x="0" y="487" width="281" height="464" frameX="-763" frameY="-484" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman idle0005" x="1071" y="463" width="275" height="462" frameX="-756" frameY="-487" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman down0000" x="1365" y="0" width="275" height="461" frameX="-760" frameY="-487" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman down0001" x="792" y="0" width="279" height="465" frameX="-777" frameY="-484" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman down0002" x="1071" y="0" width="294" height="463" frameX="-787" frameY="-485" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman down0003" x="854" y="951" width="304" height="455" frameX="-811" frameY="-493" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman down0004" x="281" y="487" width="291" height="464" frameX="-797" frameY="-484" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman left0000" x="1158" y="951" width="269" height="455" frameX="-757" frameY="-493" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman left0001" x="1640" y="0" width="282" height="455" frameX="-742" frameY="-493" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman left0002" x="0" y="951" width="291" height="456" frameX="-733" frameY="-492" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman left0003" x="291" y="951" width="294" height="456" frameX="-730" frameY="-492" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman right0000" x="1640" y="455" width="269" height="455" frameX="-757" frameY="-493" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman right0001" x="1640" y="910" width="270" height="455" frameX="-756" frameY="-493" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman right0002" x="0" y="1407" width="325" height="455" frameX="-728" frameY="-493" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman right0003" x="325" y="1407" width="363" height="455" frameX="-717" frameY="-493" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman up0000" x="536" y="0" width="256" height="468" frameX="-782" frameY="-480" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman up0001" x="0" y="0" width="280" height="487" frameX="-744" frameY="-454" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman up0002" x="280" y="0" width="256" height="469" frameX="-668" frameY="-408" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="norman up0003" x="1365" y="461" width="275" height="461" frameX="-632" frameY="-422" frameWidth="1920" frameHeight="1080" />
 </TextureAtlas>
