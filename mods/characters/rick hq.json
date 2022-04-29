@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Rick idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Rick left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Rick down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Rick right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Rick up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/rick hq",
+	"position": [
+		-710,
+		20
+	],
+	"healthicon": "rick",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		22,
+		22
+	],
+	"camera_position": [
+		580,
+		300
+	],
+	"sing_duration": 6,
+	"scale": 0.5
+}
