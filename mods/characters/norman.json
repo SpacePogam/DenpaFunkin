@@ -1,48 +1,48 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "norman left"
+			"fps": 24,
+			"name": "norman left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "norman down"
+			"fps": 24,
+			"name": "norman down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singUP",
-			"indices": [],
-			"name": "norman up"
+			"fps": 24,
+			"name": "norman up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "norman right"
+			"fps": 24,
+			"name": "norman right",
+			"indices": []
 		},
 		{
 			"loop": false,
@@ -51,9 +51,42 @@
 				0
 			],
 			"anim": "idle",
-			"fps": 16,
+			"fps": 24,
 			"name": "norman idle",
 			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "norman dead"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": false,
+			"name": "norman ldead"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "norman cdead"
 		}
 	],
 	"no_antialiasing": false,

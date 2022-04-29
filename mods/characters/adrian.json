@@ -2,7 +2,95 @@
 	"animations": [
 		{
 			"offsets": [
+				-55,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "adrian left miss"
+		},
+		{
+			"offsets": [
+				-15,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "adrian down miss"
+		},
+		{
+			"offsets": [
+				-10,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "adrian up miss"
+		},
+		{
+			"offsets": [
 				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "adrian right miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "adrian left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "adrian down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "adrian up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "adrian right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
 				0
 			],
 			"loop": false,
@@ -10,69 +98,25 @@
 			"anim": "idle",
 			"indices": [],
 			"name": "adrian idle"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"indices": [],
-			"fps": 20,
-			"anim": "singDOWN",
-			"loop": false,
-			"name": "adrian down"
-		},
-		{
-			"offsets": [
-				0,
-				25
-			],
-			"indices": [],
-			"fps": 20,
-			"anim": "singUP",
-			"loop": false,
-			"name": "adrian up"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"indices": [],
-			"fps": 20,
-			"anim": "singLEFT",
-			"loop": false,
-			"name": "adrian right"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"indices": [],
-			"fps": 20,
-			"anim": "singRIGHT",
-			"loop": false,
-			"name": "adrian left"
 		}
 	],
-	"no_antialiasing": true,
+	"no_antialiasing": false,
 	"image": "characters/adrian",
 	"position": [
-		300,
+		120,
 		300
 	],
 	"healthicon": "adrian",
 	"flip_x": false,
 	"healthbar_colors": [
-		141,
-		255,
-		61
+		107,
+		190,
+		48
 	],
 	"camera_position": [
-		650,
-		-200
+		200,
+		-80
 	],
-	"sing_duration": 6.1,
-	"scale": 8
+	"sing_duration": 4,
+	"scale": 1.3
 }

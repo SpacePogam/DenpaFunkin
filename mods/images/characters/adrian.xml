@@ -1,14 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="adrian.png"><SubTexture name="adrian down0000" x="90" y="177" width="75" height="80" frameX="-12" frameY="-16" frameWidth="96" frameHeight="96" />
-<SubTexture name="adrian down0001" x="0" y="0" width="71" height="93" frameX="-14" frameY="-3" frameWidth="96" frameHeight="96" />
-<SubTexture name="adrian idle0000" x="71" y="93" width="46" height="83" frameX="-24" frameY="-13" frameWidth="96" frameHeight="96" />
-<SubTexture name="adrian idle0001" x="212" y="83" width="46" height="82" frameX="-24" frameY="-14" frameWidth="96" frameHeight="96" />
-<SubTexture name="adrian idle0002" x="0" y="177" width="45" height="82" frameX="-24" frameY="-14" frameWidth="96" frameHeight="96" />
-<SubTexture name="adrian idle0003" x="45" y="177" width="45" height="82" frameX="-24" frameY="-14" frameWidth="96" frameHeight="96" />
-<SubTexture name="adrian left0000" x="117" y="93" width="56" height="83" frameX="-15" frameY="-13" frameWidth="96" frameHeight="96" />
-<SubTexture name="adrian left0001" x="0" y="93" width="71" height="84" frameX="0" frameY="-12" frameWidth="96" frameHeight="96" />
-<SubTexture name="adrian right0000" x="177" y="0" width="35" height="83" frameX="-29" frameY="-13" frameWidth="96" frameHeight="96" />
-<SubTexture name="adrian right0001" x="212" y="0" width="49" height="83" frameX="-29" frameY="-13" frameWidth="96" frameHeight="96" />
-<SubTexture name="adrian up0000" x="71" y="0" width="53" height="91" frameX="-21" frameY="-2" frameWidth="96" frameHeight="96" />
-<SubTexture name="adrian up0001" x="124" y="0" width="53" height="90" frameX="-21" frameY="0" frameWidth="96" frameHeight="96" />
+<TextureAtlas imagePath="adrian.png"><SubTexture name="adrian idle0000" x="673" y="384" width="175" height="377" frameX="-107" frameY="-6" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian idle0001" x="655" y="768" width="169" height="369" frameX="-107" frameY="-14" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian idle0002" x="1231" y="365" width="171" height="361" frameX="-108" frameY="-22" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian idle0003" x="655" y="768" width="169" height="369" frameX="-107" frameY="-14" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian down0000" x="824" y="768" width="324" height="365" frameX="-47" frameY="-19" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian down0001" x="331" y="768" width="324" height="371" frameX="-50" frameY="-13" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian down miss0000" x="1231" y="0" width="324" height="365" frameX="-47" frameY="-19" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian down miss0001" x="1231" y="0" width="324" height="365" frameX="-47" frameY="-19" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian left0000" x="0" y="0" width="296" height="384" frameX="-84" frameY="0" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian left0001" x="296" y="0" width="305" height="384" frameX="-79" frameY="0" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian left miss0000" x="601" y="0" width="296" height="384" frameX="-84" frameY="0" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian left miss0001" x="601" y="0" width="296" height="384" frameX="-84" frameY="0" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian right0000" x="897" y="381" width="331" height="380" frameX="-51" frameY="-4" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian right0001" x="897" y="0" width="334" height="381" frameX="-47" frameY="-3" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian right miss0000" x="0" y="768" width="331" height="380" frameX="-51" frameY="-4" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian right miss0001" x="0" y="768" width="331" height="380" frameX="-51" frameY="-4" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian up0000" x="0" y="384" width="220" height="384" frameX="-86" frameY="0" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian up0001" x="220" y="384" width="233" height="384" frameX="-78" frameY="0" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian up miss0000" x="453" y="384" width="220" height="384" frameX="-86" frameY="0" frameWidth="384" frameHeight="384" />
+<SubTexture name="adrian up miss0001" x="453" y="384" width="220" height="384" frameX="-86" frameY="0" frameWidth="384" frameHeight="384" />
 </TextureAtlas>

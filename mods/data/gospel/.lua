@@ -3,10 +3,10 @@ local inSelection = true
 local ofsx = -210
 local ofsy = 0
 local mult = 1.25
-characterNames = {'norman', 'rick-player', 'mary-player', 'jasber-player', 'adrian', 'moo-player', 'rotten-player','avid-player'} --character json name
-characterDisplays = {'Norman (Press Left/Right to change, and Up/Down to change variant.)', 'Rick', 'Mary', 'Jasper and Amber', 'Adrian', 'Moo', 'Rotten Puff','Avid'} --display name for text
-characterLimit = {2, 1, 1, 1, 1, 1, 1, 2} --how many variations does the character have
-maxpage = 8 --amount of characters u have
+characterNames = {'norman', 'rick-player', 'mary-player', 'jasber-player', 'adrian', 'moo-player'} --character json name
+characterDisplays = {'Norman (Press Left/Right to change, and Up/Down to change variant.)', 'Rick', 'Mary', 'Jasper and Amber', 'Adrian', 'Moo'} --display name for text
+characterLimit = {2, 1, 1, 1, 1, 1} --how many variations does the character have
+maxpage = 6 --amount of characters u have
 variation = 1 -- 1 = original
 local page = 1
 local inSelection = true
@@ -138,14 +138,14 @@ function setCharacter()
 end
 function setVariation()
   if variation == 1 then
-    characterNames = {'norman', 'rick-player', 'mary-player', 'jasber-player', 'adrian', 'moo-player', 'rotten-player','avid-player'} --character json name
-    characterDisplays = {'Norman (Press Left/Right to change, and Up/Down to change variant.)', 'Rick', 'Mary', 'Jasper and Amber', 'Adrian', 'Moo', 'Rotten Puff','Avid'} --display name for text
+    characterNames = {'norman', 'rick-player', 'mary-player', 'jasber-player', 'adrian', 'moo-player'} --character json name
+    characterDisplays = {'Norman (Press Left/Right to change, and Up/Down to change variant.)', 'Rick', 'Mary', 'Jasper and Amber', 'Adrian', 'Moo'} --display name for text
   elseif variation == 2 then
-    characterNames = {'pixel-norman', 'rick-player', 'mary-player', 'jasber-player', 'adrian', 'moo-player', 'rotten-player','avidtransform-player'} --character json name
-    characterDisplays = {'Pixel Norman', 'Rick', 'Mary', 'Jasper and Amber', 'Adrian', 'Moo', 'Rotten Puff','Avid(Dark)'} --display name for text
+    characterNames = {'pixel-norman', 'rick-player', 'mary-player', 'jasber-player', 'adrian', 'moo-player'} --character json name
+    characterDisplays = {'Pixel Norman', 'Rick', 'Mary', 'Jasper and Amber', 'Adrian', 'Moo'} --display name for text
   elseif variation == 3 then
-    characterNames = {'norman', 'rick-player', 'mary-player', 'jasber-player', 'adrian', 'moo-player', 'rotten-player','avid-player'} --character json name
-    characterDisplays = {'Norman (Press Left/Right to change, and Up/Down to change variant.)', 'Rick', 'Mary', 'Jasper and Amber', 'Adrian', 'Moo', 'Rotten Puff','Avid'} --display name for text
+    characterNames = {'norman', 'rick-player', 'mary-player', 'jasber-player', 'adrian', 'moo-player'} --character json name
+    characterDisplays = {'Norman (Press Left/Right to change, and Up/Down to change variant.)', 'Rick', 'Mary', 'Jasper and Amber', 'Adrian', 'Moo'} --display name for text
   end
 end
 function onTweenCompleted(tag)

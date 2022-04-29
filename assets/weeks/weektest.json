@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Polygonized", "tempester", [200, 207, 126]],
+		["Galaxy-X", "tempester", [200, 207, 126]],
+		["Zavodila", "tempester", [200, 207, 126]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Test",
+	"weekBefore": "tutorial",
+	"weekName": "Week Test",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
