@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "firebirdfront idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/firebirdfront",
+	"position": [
+		-800,
+		-300
+	],
+	"healthicon": "firebird",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		24,
+		15
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
