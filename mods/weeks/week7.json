@@ -1,0 +1,43 @@
+{
+	"storyName": "THE ENd?",
+	"hideFreeplay": false,
+	"weekBackground": "digitoll",
+	"weekBefore": "week 7",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"norman",
+		""
+	],
+	"songs": [
+		[
+			"Warped",
+			"crystal",
+			[
+				255,
+				77,
+				0
+			]
+		],
+		[
+			"Idololic Power",
+			"aflama",
+			[
+				132,
+				78,
+				128
+			]
+		],
+		[
+			"Heart of Evil",
+			"malingus",
+			[
+				42,
+				87,
+				71
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week 7"
+}
