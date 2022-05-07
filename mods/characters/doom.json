@@ -1,59 +1,70 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 16,
-			"name": "doom left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "doom left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				-25
 			],
+			"loop": false,
+			"fps": 16,
 			"anim": "singDOWN",
-			"fps": 16,
-			"name": "doom down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singUP",
-			"fps": 16,
-			"name": "doom up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singRIGHT",
-			"fps": 16,
-			"name": "doom right",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 12,
-			"anim": "idle",
 			"indices": [],
-			"name": "doom idle"
+			"name": "doom down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "doom up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "doom right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "doom idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "death",
+			"loop": false,
+			"name": "doom death"
 		}
 	],
 	"no_antialiasing": false,

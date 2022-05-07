@@ -1,11 +1,31 @@
 {
 	"song": {
 		"speed": 3,
-		"stage": "digitoll",
+		"stage": "ruins",
 		"player1": "norman",
 		"player2": "doom",
 		"player3": null,
 		"events": [
+			[
+				49548.3870967742,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"Dad"
+					]
+				]
+			],
+			[
+				49935.4838709678,
+				[
+					[
+						"Play Animation",
+						"death",
+						"Dad"
+					]
+				]
+			],
 			[
 				85935.4838709678,
 				[

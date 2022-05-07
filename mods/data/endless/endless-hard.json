@@ -3,6 +3,26 @@
 		"player1": "norman",
 		"events": [
 			[
+				49548.3870967742,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"Dad"
+					]
+				]
+			],
+			[
+				49935.4838709678,
+				[
+					[
+						"Play Animation",
+						"death",
+						"Dad"
+					]
+				]
+			],
+			[
 				85935.4838709678,
 				[
 					[
@@ -9619,6 +9639,49 @@
 				"bpm": 155
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 155,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"altAnim": false,
+				"mustHitSection": true,
+				"crossFade": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 155,
+				"changeBPM": false
+			},
+			{
+				"altAnim": false,
+				"mustHitSection": true,
+				"crossFade": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 155,
+				"changeBPM": false
+			},
+			{
+				"altAnim": false,
+				"mustHitSection": true,
+				"crossFade": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 155,
+				"changeBPM": false
+			},
+			{
 				"gfSection": false,
 				"lengthInSteps": 16,
 				"altAnim": false,
@@ -9626,7 +9689,8 @@
 				"sectionNotes": [],
 				"bpm": 155,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"crossFade": false
 			}
 		],
 		"player3": null,
@@ -9635,7 +9699,7 @@
 		"validScore": true,
 		"needsVoices": true,
 		"speed": 3,
-		"bpm": 155,
+		"bpm": 154,
 		"noteStyle": "majinNOTES"
 	}
 }
