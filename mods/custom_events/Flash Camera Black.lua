@@ -1,7 +1,7 @@
 function onEvent(n,v1,v2)
 
 
-	if n == 'Flash Camera' then
+	if n == 'Flash Camera Black' then
 
 	   makeLuaSprite('flash', '', 0, 0);
         makeGraphic('flash',1280,720,'000000')
