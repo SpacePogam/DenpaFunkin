@@ -1,7 +1,7 @@
 function onCreate()
 	-- background shit
 	makeLuaSprite('bgdigitoll', 'bgdigitoll', 0, 0);
-	setScrollFactor('bgdigitoll', 0.9, 0.9);
+	setScrollFactor('bgdigitoll', 1, 1);
 
 	addLuaSprite('bgdigitoll', false);
 	
