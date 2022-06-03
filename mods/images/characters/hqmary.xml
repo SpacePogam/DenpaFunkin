@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hqmary.png"><SubTexture name="hqmary down0000" x="1339" y="0" width="263" height="491" frameX="-829" frameY="-452" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary down0001" x="776" y="1036" width="291" height="475" frameX="-818" frameY="-468" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary down0002" x="1873" y="0" width="304" height="467" frameX="-813" frameY="-476" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary down0003" x="496" y="1036" width="280" height="479" frameX="-826" frameY="-464" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary idle0000" x="0" y="0" width="221" height="520" frameX="-802" frameY="-424" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary idle0001" x="885" y="0" width="224" height="516" frameX="-812" frameY="-428" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary idle0002" x="442" y="0" width="220" height="519" frameX="-806" frameY="-425" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary idle0003" x="221" y="0" width="221" height="520" frameX="-801" frameY="-424" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary left0000" x="464" y="520" width="231" height="508" frameX="-761" frameY="-436" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary left0001" x="1109" y="0" width="230" height="495" frameX="-752" frameY="-449" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary left0002" x="260" y="1036" width="236" height="480" frameX="-742" frameY="-467" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary left0003" x="1339" y="491" width="228" height="490" frameX="-753" frameY="-455" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary right0000" x="662" y="0" width="223" height="518" frameX="-847" frameY="-429" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary right0001" x="229" y="520" width="235" height="514" frameX="-851" frameY="-433" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary right0002" x="695" y="520" width="244" height="508" frameX="-854" frameY="-439" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary right0003" x="0" y="520" width="229" height="516" frameX="-850" frameY="-431" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary up0000" x="0" y="1036" width="260" height="487" frameX="-767" frameY="-457" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary up0001" x="1067" y="1036" width="271" height="472" frameX="-747" frameY="-472" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary up0002" x="1873" y="467" width="283" height="456" frameX="-729" frameY="-488" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqmary up0003" x="1602" y="0" width="271" height="471" frameX="-747" frameY="-473" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

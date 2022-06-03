@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-153,
+				-250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hqmary left"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hqmary down"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hqmary up"
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hqmary right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-250
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "hqmary idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hqmary",
+	"position": [
+		-750,
+		-450
+	],
+	"healthicon": "mary",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		253,
+		48
+	],
+	"camera_position": [
+		50,
+		500
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
