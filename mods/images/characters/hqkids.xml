@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hqkids.png"><SubTexture name="hqkids down0000" x="1047" y="849" width="350" height="413" frameX="-686" frameY="-500" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids down0001" x="1794" y="817" width="351" height="406" frameX="-687" frameY="-507" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids down0002" x="1137" y="1684" width="361" height="398" frameX="-686" frameY="-515" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids down0003" x="1794" y="1223" width="353" height="406" frameX="-688" frameY="-507" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids idle0000" x="0" y="0" width="349" height="425" frameX="-670" frameY="-488" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids idle0001" x="696" y="0" width="357" height="424" frameX="-666" frameY="-489" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids idle0002" x="0" y="849" width="366" height="421" frameX="-662" frameY="-492" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids idle0003" x="1406" y="416" width="377" height="415" frameX="-655" frameY="-498" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids idle0004" x="0" y="1684" width="387" height="408" frameX="-650" frameY="-505" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids idle0005" x="0" y="1270" width="378" height="414" frameX="-654" frameY="-499" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids idle0006" x="366" y="849" width="366" height="421" frameX="-661" frameY="-492" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids idle0007" x="349" y="0" width="347" height="425" frameX="-669" frameY="-488" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids idle0008" x="0" y="425" width="337" height="424" frameX="-674" frameY="-489" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids idle0009" x="1053" y="422" width="324" height="420" frameX="-681" frameY="-493" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids idle0010" x="732" y="849" width="315" height="416" frameX="-685" frameY="-497" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids idle0011" x="1794" y="410" width="307" height="407" frameX="-689" frameY="-506" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids idle0012" x="1406" y="831" width="316" height="415" frameX="-685" frameY="-498" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids idle0013" x="677" y="425" width="330" height="422" frameX="-678" frameY="-491" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids idle0014" x="337" y="425" width="340" height="424" frameX="-673" frameY="-489" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids left0000" x="1406" y="0" width="388" height="416" frameX="-637" frameY="-496" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids left0001" x="378" y="1270" width="392" height="412" frameX="-632" frameY="-500" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids left0002" x="741" y="1684" width="396" height="403" frameX="-626" frameY="-509" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids left0003" x="770" y="1270" width="393" height="411" frameX="-631" frameY="-501" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids right0000" x="1053" y="0" width="353" height="422" frameX="-712" frameY="-492" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids right0001" x="1794" y="0" width="356" height="410" frameX="-717" frameY="-499" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids right0002" x="387" y="1684" width="354" height="405" frameX="-725" frameY="-508" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids right0003" x="1163" y="1270" width="354" height="411" frameX="-717" frameY="-499" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids up0000" x="1498" y="1684" width="351" height="392" frameX="-641" frameY="-517" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids up0001" x="2150" y="0" width="362" height="380" frameX="-625" frameY="-529" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids up0002" x="365" y="2092" width="377" height="362" frameX="-606" frameY="-547" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="hqkids up0003" x="0" y="2092" width="365" height="378" frameX="-623" frameY="-531" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
