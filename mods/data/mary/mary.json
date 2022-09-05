@@ -1,7 +1,8 @@
 {
 	"song": {
 		"player1": "norman",
-		"player2": "mary",
+		"autoIdles": true,
+		"player2": "hqmary",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -2109,14 +2110,56 @@
 				"bpm": 180
 			},
 			{
-				"gfSection": false,
 				"lengthInSteps": 16,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
 				"bpm": 120,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 120,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 120,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 120,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"player4Section": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"crossFade": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 120,
+				"changeBPM": false
 			},
 			{
 				"gfSection": false,
@@ -2125,38 +2168,25 @@
 				"typeOfSection": 0,
 				"sectionNotes": [],
 				"bpm": 120,
+				"player4Section": false,
 				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"gfSection": false,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 120,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"gfSection": false,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 120,
-				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"crossFade": false
 			}
 		],
-		"gfVersion": "crystal",
-		"events": [],
+		"autoZooms": true,
 		"player3": null,
+		"mania": 3,
 		"song": "Mary",
 		"validScore": true,
+		"speed": 2,
+		"gfVersion": "crystal",
+		"events": [],
+		"autoIcons": true,
+		"allowBot": true,
 		"needsVoices": true,
 		"stage": "digitoll",
-		"speed": 2,
-		"bpm": 120
+		"bpm": 120,
+		"allowGhostTapping": true
 	}
 }

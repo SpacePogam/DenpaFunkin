@@ -1,68 +1,87 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-110,
-				-220
-			],
 			"loop": false,
-			"fps": 12,
+			"offsets": [
+				170,
+				-230
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "avid right"
+			"fps": 12,
+			"name": "avid right",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-20,
-				-470
-			],
 			"loop": false,
-			"fps": 12,
+			"offsets": [
+				-60,
+				-360
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "avid down"
-		},
-		{
-			"offsets": [
-				160,
-				-250
-			],
-			"loop": false,
 			"fps": 12,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "avid left"
+			"name": "avid down",
+			"indices": []
 		},
 		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-160
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "avid left",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				42,
 				-29
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singUP",
-			"indices": [],
-			"name": "avid up"
+			"fps": 12,
+			"name": "avid up",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 7,
-			"name": "avid idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "avid idle"
 		}
 	],
+	"sarvente_floating": true,
+	"healthbar_colors_middle": [
+		19,
+		61,
+		183
+	],
 	"no_antialiasing": false,
+	"healthbar_colors_bottom": [
+		0,
+		41,
+		163
+	],
 	"image": "characters/avid",
+	"trail_length": 4,
+	"trail_delay": 24,
 	"position": [
 		-90,
 		-150
 	],
+	"trail_diff": 0,
+	"trail_alpha": 1,
+	"health_drain": false,
 	"healthicon": "avid",
+	"shake_screen": false,
+	"orbit": false,
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
 		39,
@@ -73,6 +92,10 @@
 		0,
 		300
 	],
+	"float_magnitude": 0,
 	"sing_duration": 6.1,
-	"scale": 0.9
+	"scare_bf": false,
+	"scare_gf": false,
+	"scale": 0.9,
+	"flixel_trail": true
 }

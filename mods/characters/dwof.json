@@ -1,68 +1,87 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 12,
-			"name": "dwof idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "dwof idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				-60,
+				10
 			],
+			"loop": false,
+			"fps": 20,
 			"anim": "singLEFT",
-			"fps": 20,
-			"name": "dwof left",
-			"indices": []
+			"indices": [],
+			"name": "dwof left"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				-90,
+				20
 			],
+			"loop": false,
+			"fps": 20,
 			"anim": "singDOWN",
-			"fps": 20,
-			"name": "dwof down",
-			"indices": []
+			"indices": [],
+			"name": "dwof down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				-110,
+				-50
 			],
+			"loop": false,
+			"fps": 20,
 			"anim": "singUP",
-			"fps": 20,
-			"name": "dwof up",
-			"indices": []
+			"indices": [],
+			"name": "dwof up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
+				80,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 20,
-			"name": "dwof right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dwof right"
 		}
 	],
+	"sarvente_floating": false,
+	"healthbar_colors_middle": [
+		235,
+		175,
+		0
+	],
 	"no_antialiasing": false,
+	"healthbar_colors_bottom": [
+		215,
+		155,
+		0
+	],
 	"image": "characters/dwof",
+	"trail_length": null,
+	"trail_delay": null,
 	"position": [
 		0,
 		0
 	],
+	"trail_diff": null,
+	"trail_alpha": null,
+	"health_drain": false,
 	"healthicon": "dwof",
+	"shake_screen": false,
+	"orbit": false,
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
@@ -73,6 +92,10 @@
 		0,
 		0
 	],
+	"float_magnitude": null,
 	"sing_duration": 6.1,
-	"scale": 1
+	"scare_bf": false,
+	"scare_gf": false,
+	"scale": 1,
+	"flixel_trail": false
 }

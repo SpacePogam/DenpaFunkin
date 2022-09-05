@@ -1,78 +1,101 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "p left"
+			"fps": 20,
+			"name": "p left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "p down"
+			"fps": 20,
+			"name": "p down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-150,
 				-200
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "singUP",
-			"indices": [],
-			"name": "p up"
-		},
-		{
-			"offsets": [
-				-150,
-				-250
-			],
-			"loop": false,
 			"fps": 20,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "p right"
+			"name": "p up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "p right",
+			"indices": []
+		},
+		{
 			"loop": false,
-			"fps": 8,
+			"offsets": [
+				-150,
+				-250
+			],
 			"anim": "idle",
-			"indices": [],
-			"name": "p idle"
+			"fps": 8,
+			"name": "p idle",
+			"indices": []
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/prologue_player",
-	"position": [
+	"sarvente_floating": false,
+	"healthbar_colors_middle": [
+		0,
 		0,
 		0
 	],
+	"no_antialiasing": true,
+	"healthbar_colors_bottom": [
+		0,
+		0,
+		0
+	],
+	"image": "characters/prologue_player",
+	"trail_length": null,
+	"trail_delay": null,
+	"position": [
+		-840,
+		-530
+	],
+	"trail_diff": null,
+	"trail_alpha": null,
+	"health_drain": false,
 	"healthicon": "none",
+	"shake_screen": false,
+	"orbit": false,
+	"healthbar_count": 3,
 	"flip_x": true,
 	"healthbar_colors": [
-		255,
-		255,
-		255
+		0,
+		0,
+		0
 	],
 	"camera_position": [
 		0,
-		230
+		0
 	],
-	"sing_duration": 6.1,
-	"scale": 1.2
+	"float_magnitude": null,
+	"sing_duration": 4.00000000000001,
+	"scare_bf": false,
+	"scare_gf": false,
+	"scale": 0.5,
+	"flixel_trail": false
 }

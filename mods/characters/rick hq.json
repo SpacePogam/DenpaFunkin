@@ -1,78 +1,101 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Rick idle"
+			"fps": 24,
+			"name": "Rick idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Rick left"
+			"fps": 24,
+			"name": "Rick left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				0,
+				-18,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Rick down"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Rick right"
+			"name": "Rick down",
+			"indices": []
 		},
 		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Rick right",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 18,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Rick up"
+			"fps": 18,
+			"name": "Rick up",
+			"indices": []
 		}
 	],
+	"sarvente_floating": false,
+	"healthbar_colors_middle": [
+		235,
+		0,
+		9
+	],
 	"no_antialiasing": true,
+	"healthbar_colors_bottom": [
+		215,
+		0,
+		0
+	],
 	"image": "characters/rick hq",
+	"trail_length": null,
+	"trail_delay": null,
 	"position": [
 		-710,
 		20
 	],
+	"trail_diff": null,
+	"trail_alpha": null,
+	"health_drain": false,
 	"healthicon": "rick",
+	"shake_screen": false,
+	"orbit": false,
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
-		248,
-		22,
-		22
+		255,
+		0,
+		29
 	],
 	"camera_position": [
 		580,
 		300
 	],
+	"float_magnitude": null,
 	"sing_duration": 6,
-	"scale": 0.5
+	"scare_bf": false,
+	"scare_gf": false,
+	"scale": 0.5,
+	"flixel_trail": false
 }

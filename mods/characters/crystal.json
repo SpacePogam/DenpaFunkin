@@ -1,14 +1,13 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				520,
 				181
 			],
-			"anim": "danceLeft",
+			"loop": false,
 			"fps": 24,
-			"name": "gfDance",
+			"anim": "danceLeft",
 			"indices": [
 				30,
 				0,
@@ -26,17 +25,17 @@
 				12,
 				13,
 				14
-			]
+			],
+			"name": "gfDance"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				520,
 				181
 			],
-			"anim": "danceRight",
+			"loop": false,
 			"fps": 24,
-			"name": "gfDance",
+			"anim": "danceRight",
 			"indices": [
 				15,
 				16,
@@ -53,49 +52,69 @@
 				27,
 				1,
 				2
-			]
+			],
+			"name": "gfDance"
 		},
 		{
+			"offsets": [
+				520,
+				181
+			],
 			"loop": true,
-			"offsets": [
-				520,
-				181
-			],
+			"fps": 24,
 			"anim": "scared",
-			"fps": 24,
-			"name": "fear",
-			"indices": []
+			"indices": [],
+			"name": "fear"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				520,
 				181
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "sad",
-			"fps": 24,
-			"name": "sad",
-			"indices": []
+			"indices": [],
+			"name": "sad"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				520,
 				181
 			],
-			"anim": "cheer",
+			"loop": false,
 			"fps": 24,
-			"name": "hey",
-			"indices": []
+			"anim": "cheer",
+			"indices": [],
+			"name": "hey"
 		}
 	],
-	"no_antialiasing": true,
+	"sarvente_floating": false,
+	"healthbar_colors_middle": [
+		141,
+		141,
+		141
+	],
+	"no_antialiasing": false,
+	"healthbar_colors_bottom": [
+		121,
+		121,
+		121
+	],
 	"image": "characters/Crystal",
+	"trail_length": null,
+	"trail_delay": null,
 	"position": [
 		-140,
 		0
 	],
+	"trail_diff": null,
+	"trail_alpha": null,
+	"health_drain": false,
 	"healthicon": "",
+	"shake_screen": false,
+	"orbit": false,
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
 		161,
@@ -106,6 +125,10 @@
 		-140,
 		0
 	],
+	"float_magnitude": null,
 	"sing_duration": 4,
-	"scale": 0.6
+	"scare_bf": false,
+	"scare_gf": false,
+	"scale": 0.6,
+	"flixel_trail": false
 }

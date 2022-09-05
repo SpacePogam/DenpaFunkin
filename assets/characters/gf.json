@@ -187,13 +187,25 @@
 			"name": "GF FEAR"
 		}
 	],
+	"sarvente_floating": false,
+	"healthbar_colors_middle": [
+		125,
+		0,
+		37
+	],
 	"no_antialiasing": false,
+	"healthbar_colors_bottom": [
+		85,
+		0,
+		0
+	],
 	"image": "characters/GF_assets",
 	"position": [
 		0,
 		0
 	],
 	"healthicon": "gf",
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
 		165,
@@ -204,6 +216,8 @@
 		0,
 		0
 	],
+	"float_magnitude": 0,
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1,
+	"flixel_trail": false
 }

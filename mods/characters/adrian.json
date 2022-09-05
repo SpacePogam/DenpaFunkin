@@ -1,112 +1,131 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-55,
 				6
 			],
-			"loop": false,
+			"anim": "singRIGHTmiss",
 			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "adrian left miss"
+			"name": "adrian left miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-15,
 				2
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "adrian down miss"
+			"fps": 24,
+			"name": "adrian down miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-10,
 				40
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUPmiss",
-			"indices": [],
-			"name": "adrian up miss"
+			"fps": 24,
+			"name": "adrian up miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				1
 			],
-			"loop": false,
+			"anim": "singLEFTmiss",
 			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "adrian right miss"
+			"name": "adrian right miss",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-55,
 				6
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "adrian left0",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "adrian left0"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-22,
 				2
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "adrian down0",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "adrian down0"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-10,
 				40
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "adrian up0",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "adrian up0"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				1
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "adrian right0",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "adrian right0"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-5,
 				0
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "idle",
-			"indices": [],
-			"name": "adrian idle"
+			"fps": 12,
+			"name": "adrian idle",
+			"indices": []
 		}
 	],
+	"sarvente_floating": false,
+	"healthbar_colors_middle": [
+		255,
+		170,
+		48
+	],
 	"no_antialiasing": false,
+	"healthbar_colors_bottom": [
+		107,
+		190,
+		48
+	],
 	"image": "characters/adrian",
+	"trail_length": null,
+	"trail_delay": null,
 	"position": [
 		120,
 		300
 	],
+	"trail_diff": null,
+	"trail_alpha": null,
+	"health_drain": false,
 	"healthicon": "adrian",
+	"shake_screen": false,
+	"orbit": false,
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
 		107,
@@ -117,6 +136,10 @@
 		200,
 		-80
 	],
+	"float_magnitude": null,
 	"sing_duration": 4,
-	"scale": 1.3
+	"scare_bf": false,
+	"scare_gf": false,
+	"scale": 1.3,
+	"flixel_trail": false
 }

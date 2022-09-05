@@ -1,24 +1,43 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				-150,
 				-250
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "avidwarf idle"
+			"fps": 24,
+			"name": "avidwarf idle",
+			"indices": []
 		}
 	],
+	"sarvente_floating": false,
+	"healthbar_colors_middle": [
+		161,
+		146,
+		151
+	],
 	"no_antialiasing": false,
+	"healthbar_colors_bottom": [
+		141,
+		126,
+		131
+	],
 	"image": "characters/avidwarf",
+	"trail_length": null,
+	"trail_delay": null,
 	"position": [
 		-610,
 		-390
 	],
+	"trail_diff": null,
+	"trail_alpha": null,
+	"health_drain": false,
 	"healthicon": "avidwarf",
+	"shake_screen": false,
+	"orbit": false,
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
 		181,
@@ -29,6 +48,10 @@
 		-590,
 		240
 	],
+	"float_magnitude": null,
 	"sing_duration": 6.1,
-	"scale": 1.5
+	"scare_bf": false,
+	"scare_gf": false,
+	"scale": 1.5,
+	"flixel_trail": false
 }

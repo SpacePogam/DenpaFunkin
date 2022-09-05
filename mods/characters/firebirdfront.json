@@ -1,24 +1,43 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "firebirdfront idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "firebirdfront idle"
 		}
 	],
+	"sarvente_floating": true,
+	"healthbar_colors_middle": [
+		149,
+		4,
+		0
+	],
 	"no_antialiasing": false,
+	"healthbar_colors_bottom": [
+		129,
+		0,
+		0
+	],
 	"image": "characters/firebirdfront",
+	"trail_length": null,
+	"trail_delay": null,
 	"position": [
 		-800,
 		-300
 	],
+	"trail_diff": null,
+	"trail_alpha": null,
+	"health_drain": true,
 	"healthicon": "firebird",
+	"shake_screen": true,
+	"orbit": false,
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
 		169,
@@ -29,6 +48,10 @@
 		0,
 		0
 	],
+	"float_magnitude": 0,
 	"sing_duration": 6.1,
-	"scale": 1
+	"scare_bf": true,
+	"scare_gf": false,
+	"scale": 1,
+	"flixel_trail": false
 }

@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				90,
-				-250
+				150,
+				-270
 			],
 			"anim": "singLEFT",
 			"fps": 20,
@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				18,
-				-181
+				28,
+				-281
 			],
 			"anim": "singUP",
 			"fps": 20,
@@ -25,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-230,
-				-130
+				-170,
+				-200
 			],
 			"anim": "singRIGHT",
 			"fps": 20,
@@ -37,7 +37,7 @@
 			"loop": false,
 			"offsets": [
 				-150,
-				-350
+				-420
 			],
 			"anim": "singDOWN",
 			"fps": 20,
@@ -56,13 +56,32 @@
 			"indices": []
 		}
 	],
+	"sarvente_floating": true,
+	"healthbar_colors_middle": [
+		149,
+		4,
+		0
+	],
 	"no_antialiasing": false,
+	"healthbar_colors_bottom": [
+		129,
+		0,
+		0
+	],
 	"image": "characters/firebird",
+	"trail_length": null,
+	"trail_delay": null,
 	"position": [
 		-200,
 		-450
 	],
+	"trail_diff": null,
+	"trail_alpha": null,
+	"health_drain": true,
 	"healthicon": "firebird",
+	"shake_screen": true,
+	"orbit": false,
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
 		169,
@@ -73,6 +92,10 @@
 		20,
 		320
 	],
+	"float_magnitude": 0,
 	"sing_duration": 6.1,
-	"scale": 1
+	"scare_bf": true,
+	"scare_gf": true,
+	"scale": 1,
+	"flixel_trail": false
 }

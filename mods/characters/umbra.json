@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				0,
-				0
+				8,
+				-89
 			],
 			"loop": false,
 			"fps": 20,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				0
+				106,
+				46
 			],
 			"loop": false,
 			"fps": 20,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				0
+				83,
+				-36
 			],
 			"loop": false,
 			"fps": 20,
@@ -47,8 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				-44,
+				-40
 			],
 			"anim": "singLEFT",
 			"fps": 20,
@@ -57,23 +57,42 @@
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-4,
+				-21
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 16,
 			"anim": "idle-alt",
-			"loop": false,
+			"indices": [],
 			"name": "umbra idle alt"
 		}
 	],
+	"sarvente_floating": false,
+	"healthbar_colors_middle": [
+		56,
+		56,
+		56
+	],
 	"no_antialiasing": false,
+	"healthbar_colors_bottom": [
+		36,
+		36,
+		36
+	],
 	"image": "characters/umbra",
+	"trail_length": null,
+	"trail_delay": null,
 	"position": [
 		0,
 		270
 	],
+	"trail_diff": null,
+	"trail_alpha": null,
+	"health_drain": true,
 	"healthicon": "umbra",
+	"shake_screen": true,
+	"orbit": false,
+	"healthbar_count": 3,
 	"flip_x": true,
 	"healthbar_colors": [
 		76,
@@ -84,6 +103,10 @@
 		40,
 		90
 	],
-	"sing_duration": 6.1,
-	"scale": 0.7
+	"float_magnitude": null,
+	"sing_duration": 4.00000000000001,
+	"scare_bf": false,
+	"scare_gf": false,
+	"scale": 1,
+	"flixel_trail": false
 }

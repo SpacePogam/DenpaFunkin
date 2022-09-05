@@ -1,78 +1,101 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
+			"loop": false,
+			"fps": 20,
 			"anim": "singLEFT",
-			"fps": 20,
-			"name": "cube left",
-			"indices": []
+			"indices": [],
+			"name": "cube left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 20,
-			"name": "cube down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cube down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-150,
 				-200
 			],
+			"loop": false,
+			"fps": 20,
 			"anim": "singUP",
-			"fps": 20,
-			"name": "cube up",
-			"indices": []
+			"indices": [],
+			"name": "cube up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
+			"loop": false,
+			"fps": 20,
 			"anim": "singRIGHT",
-			"fps": 20,
-			"name": "cube right",
-			"indices": []
+			"indices": [],
+			"name": "cube right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 8,
-			"name": "cube idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "cube idle"
 		}
 	],
+	"sarvente_floating": false,
+	"healthbar_colors_middle": [
+		0,
+		140,
+		240
+	],
 	"no_antialiasing": true,
+	"healthbar_colors_bottom": [
+		0,
+		120,
+		220
+	],
 	"image": "characters/icecube",
+	"trail_length": null,
+	"trail_delay": null,
 	"position": [
 		0,
 		0
 	],
+	"trail_diff": null,
+	"trail_alpha": null,
+	"health_drain": false,
 	"healthicon": "icecube",
+	"shake_screen": false,
+	"orbit": false,
+	"healthbar_count": 3,
 	"flip_x": true,
 	"healthbar_colors": [
 		0,
-		175,
-		215
+		160,
+		255
 	],
 	"camera_position": [
 		0,
 		230
 	],
+	"float_magnitude": null,
 	"sing_duration": 6.1,
-	"scale": 1.2
+	"scare_bf": false,
+	"scare_gf": false,
+	"scale": 1.2,
+	"flixel_trail": false
 }

@@ -1,58 +1,47 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 16,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "doom left"
+			"fps": 16,
+			"name": "doom left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				0,
-				-25
-			],
 			"loop": false,
-			"fps": 16,
+			"offsets": [
+				2,
+				13
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "doom down"
+			"fps": 16,
+			"name": "doom down",
+			"indices": []
 		},
 		{
-			"offsets": [
-				0,
-				0
-			],
 			"loop": false,
-			"fps": 16,
+			"offsets": [
+				7,
+				3
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "doom up"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
 			"fps": 16,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "doom right"
+			"name": "doom up",
+			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				0,
-				0
+				-5
 			],
-			"anim": "idle",
-			"fps": 12,
-			"name": "doom idle",
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "doom right",
 			"indices": []
 		},
 		{
@@ -60,30 +49,64 @@
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 16,
-			"anim": "death",
 			"loop": false,
-			"name": "doom death"
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "doom idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "death",
+			"fps": 16,
+			"name": "doom death",
+			"indices": []
 		}
 	],
+	"sarvente_floating": false,
+	"healthbar_colors_middle": [
+		60,
+		60,
+		0
+	],
 	"no_antialiasing": false,
+	"healthbar_colors_bottom": [
+		40,
+		40,
+		0
+	],
 	"image": "characters/doom",
+	"trail_length": null,
+	"trail_delay": null,
 	"position": [
 		-800,
 		-175
 	],
+	"trail_diff": null,
+	"trail_alpha": null,
+	"health_drain": false,
 	"healthicon": "doom",
+	"shake_screen": false,
+	"orbit": false,
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		73,
+		73,
+		13
 	],
 	"camera_position": [
 		35,
 		175
 	],
+	"float_magnitude": null,
 	"sing_duration": 6.1,
-	"scale": 1
+	"scare_bf": false,
+	"scare_gf": false,
+	"scale": 1,
+	"flixel_trail": false
 }

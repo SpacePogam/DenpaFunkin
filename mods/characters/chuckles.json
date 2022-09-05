@@ -1,68 +1,87 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				-19
+				1
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "chuckles left"
+			"fps": 24,
+			"name": "chuckles left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				-20
+				1
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "chuckles down"
+			"fps": 24,
+			"name": "chuckles down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				4
+				24
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "chuckles up"
-		},
-		{
-			"offsets": [
-				0,
-				-20
-			],
-			"indices": [],
 			"fps": 24,
-			"anim": "singRIGHT",
-			"loop": false,
-			"name": "chuckles right"
+			"name": "chuckles up",
+			"indices": []
 		},
 		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "chuckles right",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "chuckles idle"
+			"fps": 24,
+			"name": "chuckles idle",
+			"indices": []
 		}
 	],
+	"sarvente_floating": false,
+	"healthbar_colors_middle": [
+		141,
+		141,
+		141
+	],
 	"no_antialiasing": false,
+	"healthbar_colors_bottom": [
+		121,
+		121,
+		121
+	],
 	"image": "characters/chuckles",
+	"trail_length": null,
+	"trail_delay": null,
 	"position": [
 		0,
 		0
 	],
+	"trail_diff": null,
+	"trail_alpha": null,
+	"health_drain": false,
 	"healthicon": "face",
+	"shake_screen": false,
+	"orbit": false,
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
 		161,
@@ -73,6 +92,10 @@
 		0,
 		0
 	],
+	"float_magnitude": null,
 	"sing_duration": 4,
-	"scale": 2
+	"scare_bf": false,
+	"scare_gf": false,
+	"scale": 2,
+	"flixel_trail": false
 }

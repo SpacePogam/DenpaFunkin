@@ -1,78 +1,101 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				0,
-				0
-			],
 			"loop": true,
-			"fps": 15,
+			"offsets": [
+				0,
+				0
+			],
 			"anim": "idle",
-			"indices": [],
-			"name": "hqkids idle"
+			"fps": 15,
+			"name": "hqkids idle",
+			"indices": []
 		},
 		{
-			"offsets": [
-				6,
-				0
-			],
 			"loop": false,
-			"fps": 16,
+			"offsets": [
+				-1,
+				-1
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "hqkids left"
+			"fps": 16,
+			"name": "hqkids left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 16,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "hqkids down"
+			"fps": 16,
+			"name": "hqkids down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				0
+				2
 			],
-			"loop": false,
-			"fps": 16,
 			"anim": "singUP",
-			"indices": [],
-			"name": "hqkids up"
+			"fps": 16,
+			"name": "hqkids up",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-6,
-				0
-			],
 			"loop": false,
-			"fps": 16,
+			"offsets": [
+				2,
+				-5
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "hqkids right"
+			"fps": 16,
+			"name": "hqkids right",
+			"indices": []
 		}
 	],
+	"sarvente_floating": false,
+	"healthbar_colors_middle": [
+		255,
+		126,
+		255
+	],
 	"no_antialiasing": true,
+	"healthbar_colors_bottom": [
+		0,
+		0,
+		0
+	],
 	"image": "characters/hqkids",
+	"trail_length": null,
+	"trail_delay": null,
 	"position": [
 		-500,
 		-50
 	],
+	"trail_diff": null,
+	"trail_alpha": null,
+	"health_drain": false,
 	"healthicon": "jasber",
+	"shake_screen": false,
+	"orbit": false,
+	"healthbar_count": 2,
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
-		106,
-		255
+		255,
+		0
 	],
 	"camera_position": [
 		150,
 		250
 	],
+	"float_magnitude": null,
 	"sing_duration": 6.1,
-	"scale": 0.65
+	"scare_bf": false,
+	"scare_gf": false,
+	"scale": 0.65,
+	"flixel_trail": false
 }

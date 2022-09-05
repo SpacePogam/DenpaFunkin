@@ -1,78 +1,101 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-153,
-				-250
-			],
 			"loop": false,
-			"fps": 20,
+			"offsets": [
+				-151,
+				-249
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "hqmary left"
-		},
-		{
-			"offsets": [
-				-150,
-				-250
-			],
-			"loop": false,
 			"fps": 20,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "hqmary down"
-		},
-		{
-			"offsets": [
-				-150,
-				-250
-			],
-			"loop": false,
-			"fps": 20,
-			"anim": "singUP",
-			"indices": [],
-			"name": "hqmary up"
-		},
-		{
-			"offsets": [
-				-150,
-				-250
-			],
-			"loop": false,
-			"fps": 20,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "hqmary right"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-150,
-				-250
-			],
-			"anim": "idle",
-			"fps": 12,
-			"name": "hqmary idle",
+			"name": "hqmary left",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-167,
+				-252
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "hqmary down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-250
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "hqmary up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-147,
+				-248
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "hqmary right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-150,
+				-250
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "hqmary idle"
 		}
 	],
+	"sarvente_floating": false,
+	"healthbar_colors_middle": [
+		235,
+		177,
+		0
+	],
 	"no_antialiasing": false,
+	"healthbar_colors_bottom": [
+		215,
+		157,
+		0
+	],
 	"image": "characters/hqmary",
+	"trail_length": null,
+	"trail_delay": null,
 	"position": [
 		-750,
 		-450
 	],
+	"trail_diff": null,
+	"trail_alpha": null,
+	"health_drain": false,
 	"healthicon": "mary",
+	"shake_screen": false,
+	"orbit": false,
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
-		252,
-		253,
-		48
+		255,
+		197,
+		0
 	],
 	"camera_position": [
 		50,
 		500
 	],
+	"float_magnitude": null,
 	"sing_duration": 6.1,
-	"scale": 1
+	"scare_bf": false,
+	"scare_gf": false,
+	"scale": 1,
+	"flixel_trail": false
 }

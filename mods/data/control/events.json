@@ -1,0 +1,220 @@
+{
+	"song": {
+		"speed": 3.8,
+		"stage": "volcano",
+		"player1": "norman",
+		"player2": "firebird",
+		"player3": null,
+		"player4": "prologue_player",
+		"dangerMiss": null,
+		"autoIcons": true,
+		"autoIdles": true,
+		"events": [
+			[
+				21000,
+				[
+					[
+						"Flash Camera",
+						"1",
+						"0x000000"
+					],
+					[
+						"Change Character",
+						"1",
+						"avid"
+					],
+					[
+						"Change Character",
+						"2",
+						"firebirdfront"
+					]
+				]
+			],
+			[
+				31200,
+				[
+					[
+						"Change Character",
+						"2",
+						"avidcontrol"
+					],
+					[
+						"Change Character",
+						"1",
+						"firebird"
+					],
+					[
+						"Flash Camera",
+						"1",
+						"0x000000"
+					]
+				]
+			],
+			[
+				70800,
+				[
+					[
+						"Flash Camera",
+						"1",
+						"0x000000"
+					],
+					[
+						"Change Character",
+						"3",
+						"avid"
+					],
+					[
+						"Change Character",
+						"2",
+						"prologue_player"
+					]
+				]
+			],
+			[
+				80400,
+				[
+					[
+						"Change Character",
+						"2",
+						"avidcontrol"
+					],
+					[
+						"Flash Camera",
+						"1",
+						"0x000000"
+					],
+					[
+						"Change Character",
+						"3",
+						"prologue_player"
+					]
+				]
+			],
+			[
+				82800,
+				[
+					[
+						"Change Character",
+						"3",
+						"avid"
+					],
+					[
+						"Flash Camera",
+						"1",
+						"0x000000"
+					],
+					[
+						"Change Character",
+						"2",
+						"prologue_player"
+					]
+				]
+			],
+			[
+				86325,
+				[
+					[
+						"Change Character",
+						"2",
+						"avidcontrol"
+					],
+					[
+						"Flash Camera",
+						"1",
+						"0x000000"
+					],
+					[
+						"Change Character",
+						"3",
+						"prologue_player"
+					]
+				]
+			],
+			[
+				88800,
+				[
+					[
+						"Change Character",
+						"3",
+						"avid"
+					],
+					[
+						"Flash Camera",
+						"1",
+						"0x000000"
+					],
+					[
+						"Change Character",
+						"2",
+						"prologue_player"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Change Character",
+						"2",
+						"avidcontrol"
+					],
+					[
+						"Flash Camera",
+						"1",
+						"0x000000"
+					],
+					[
+						"Change Character",
+						"3",
+						"prologue_player"
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Change Character",
+						"2",
+						"prologue_player"
+					],
+					[
+						"Change Character",
+						"0",
+						"avid-player"
+					],
+					[
+						"Flash Camera",
+						"1",
+						"0x000000"
+					],
+					[
+						"Change Character",
+						"3",
+						"prologue_player"
+					]
+				]
+			]
+		],
+		"allowBot": true,
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"modchart": null,
+		"validScore": false,
+		"beatDrain": null,
+		"tintBlue": null,
+		"gfVersion": "avidcontrol",
+		"bpm": 200,
+		"mania": 3,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"enablePlayer4": true,
+		"allowGhostTapping": true,
+		"crits": null,
+		"song": "Control",
+		"autoZooms": true,
+		"hardness": null,
+		"tintRed": null,
+		"tintGreen": null
+	}
+}

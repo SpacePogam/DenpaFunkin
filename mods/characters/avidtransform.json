@@ -1,68 +1,87 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-150,
 				-250
 			],
-			"indices": [],
-			"fps": 7,
 			"anim": "idle",
-			"loop": false,
-			"name": "avidtransform idle"
+			"fps": 7,
+			"name": "avidtransform idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-20,
-				-220
+				-120,
+				-160
 			],
-			"indices": [],
-			"fps": 12,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "avidtransform left"
+			"fps": 12,
+			"name": "avidtransform left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				140,
-				-480
+				210,
+				-410
 			],
-			"indices": [],
-			"fps": 12,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "avidtransform down"
+			"fps": 12,
+			"name": "avidtransform down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-220,
-				-310
+				-150,
+				-240
 			],
-			"indices": [],
-			"fps": 12,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "avidtransform right"
+			"fps": 12,
+			"name": "avidtransform right",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-240,
-				-80
-			],
-			"indices": [],
-			"fps": 12,
-			"anim": "singUP",
 			"loop": false,
-			"name": "avidtransform up"
+			"offsets": [
+				-210,
+				-70
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "avidtransform up",
+			"indices": []
 		}
 	],
+	"sarvente_floating": false,
+	"healthbar_colors_middle": [
+		19,
+		61,
+		183
+	],
 	"no_antialiasing": false,
+	"healthbar_colors_bottom": [
+		0,
+		41,
+		163
+	],
 	"image": "characters/avidtransform",
+	"trail_length": 4,
+	"trail_delay": 24,
 	"position": [
 		-150,
 		-200
 	],
+	"trail_diff": 0,
+	"trail_alpha": 1,
+	"health_drain": false,
 	"healthicon": "avid",
+	"shake_screen": false,
+	"orbit": false,
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
 		39,
@@ -73,6 +92,10 @@
 		0,
 		300
 	],
+	"float_magnitude": null,
 	"sing_duration": 6.1,
-	"scale": 0.9
+	"scare_bf": false,
+	"scare_gf": false,
+	"scale": 0.9,
+	"flixel_trail": true
 }
